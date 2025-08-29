@@ -1,0 +1,15 @@
+Run MUT2_320_mle_20-03-25 MCMC Hyper Parameters:
+n_processes = 10
+unif_lb = 0, unif_ub = 0.1
+ndim = 12
+nwalkers = 24
+nsteps = 5000
+nshuffle = 1
+burnin = 2500
+thin = 10
+t = 1
+cuton = 0
+cutoff = 999
+eq_init = False
+filt = ['u', 'l', 'd', 'c']
+wd = leaves_full_13-03-25_MUT2_CLEAN

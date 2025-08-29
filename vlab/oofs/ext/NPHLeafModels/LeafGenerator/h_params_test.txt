@@ -1,0 +1,18 @@
+run_id: test
+scheme: mut2
+testvals: [10, 1, 0.1]
+startleaf: 0
+ngen_thresh: 320
+ncores: 12
+timeout: 160
+nattempts: 1000
+verbose: False
+symmetry_thresh: 0.05
+weightdifference_thresh: 0.06
+primordium_thresh: 1.1
+overlappingmargin_thresh: 0.005
+veinarea_thresh: 0.02
+veinsoutsidelamina_thresh: 0.01
+veinswidth_thresh: 0.05
+wd: /home/jmalone/GitHub/leaf-shape-evolution/vlab/oofs/ext/NPHLeafModels_1.01
+nleaves: 48

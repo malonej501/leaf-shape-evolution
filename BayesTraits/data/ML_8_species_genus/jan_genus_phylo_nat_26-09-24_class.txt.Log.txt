@@ -1,0 +1,43 @@
+Options:
+Model:                           MultiState
+Tree File Name:                  data/jan_genus_phylo_nat_26-09-24_class.tre
+Data File Name:                  data/jan_genus_phylo_nat_26-09-24_class.txt
+Log File Name:                   data/jan_genus_phylo_nat_26-09-24_class.txt.Log.txt
+Save Initial Trees:              False
+Save Trees:                      False
+Summary:                         False
+Seed:                            2799798949
+Analsis Type:                    Maximum Likelihood
+ML Attempt Per Tree:             10
+ML Max Evaluations:              20000
+ML Tolerance:                    0.000001
+ML Algorithm:                    BOBYQA
+Rate Range:                      0.000000 - 100.000000
+Precision:                       64 bits
+Cores:                           1
+No of Rates:                     12
+Base frequency (PI's):           None
+Pis used in ancestral state estimation:      Yes
+Character Symbols:               0,1,2,3
+Using a covarion model:          False
+Normalise Q Matrix:              False
+Restrictions:
+    q01                          None
+    q02                          None
+    q03                          None
+    q10                          None
+    q12                          None
+    q13                          None
+    q20                          None
+    q21                          None
+    q23                          None
+    q30                          None
+    q31                          None
+    q32                          None
+Tree Information
+     Trees:                      1
+     Taxa:                       2458
+     Sites:                      1
+     States:                     4
+Tree No	Lh	q01	q02	q03	q10	q12	q13	q20	q21	q23	q30	q31	q32	Root P(0)	Root P(1)	Root P(2)	Root P(3)	
+1	-901.232140	0.000276	0.000170	0.000172	0.008881	0.002902	0.019905	0.000181	0.020715	0.000000	0.021833	0.000197	0.000000	0.539757	0.270239	0.087851	0.102153	

@@ -1,0 +1,20 @@
+Run MUT2_320_mcmc_2_24-04-25 MCMC Hyper Parameters:
+N_PROCESSES = 10
+UNIF_LB = 0, UNIF_UB = 0.1
+NDIM = 12
+NWALKERS = 24
+NSTEPS = 5000
+NSHUFFLE = 1
+BURNIN = 2500
+THIN = 10
+t = 1
+CUTON = 0
+CUTOFF = 999
+RESET_FIRST_CAT = False
+EQ_INIT = False
+FILT = ['u', 'l', 'd', 'c']
+L_VER = 0
+USE_PWALKS = False
+P_WALK_LEN = 160
+N_PWS = 10
+WD = leaves_full_13-03-25_MUT2_CLEAN

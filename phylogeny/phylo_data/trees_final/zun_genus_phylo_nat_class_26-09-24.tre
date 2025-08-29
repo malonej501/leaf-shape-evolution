@@ -1,0 +1,4337 @@
+#NEXUS
+[R-package APE, Fri Sep 27 16:56:08 2024]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 2162;
+	TAXLABELS
+		Cinnagrostis
+		Joinvillea
+		Flagellaria
+		Hypolaena
+		Alexgeorgea
+		Tyrbastes
+		Elegia
+		Cannomois
+		Hypodiscus
+		Willdenowia
+		Xyris
+		Comanthera
+		Syngonanthus
+		Paepalanthus
+		Eriocaulon
+		Carex
+		Scirpus
+		Eriophorum
+		Ficinia
+		Cyperus
+		Schoenoplectus
+		Bolboschoenus
+		Fimbristylis
+		Eleocharis
+		Rhynchospora
+		Costularia
+		Lepidosperma
+		Machaerina
+		Schoenus
+		Everardia
+		Bisboeckelera
+		Calyptrocarya
+		Hypolytrum
+		Mapania
+		Marsippospermum
+		Juncus
+		Luzula
+		Monotrema
+		Windsorina
+		Epidryos
+		Stegolepis
+		Cephalostemon
+		Rapatea
+		Guzmania
+		Werauhia
+		Tillandsia
+		Catopsis
+		Portea
+		Neoregelia
+		Orthophytum
+		Greigia
+		Bromelia
+		Puya
+		Pitcairnia
+		Lindmania
+		Phenakospermum
+		Ravenala
+		Strelitzia
+		Ensete
+		Musa
+		Dimerocostus
+		Chamaecostus
+		Tapeinochilos
+		Costus
+		Curcuma
+		Zingiber
+		Hedychium
+		Kaempferia
+		Boesenbergia
+		Cautleya
+		Roscoea
+		Caulokaempferia
+		Camptandra
+		Globba
+		Aframomum
+		Renealmia
+		Alpinia
+		Elettaria
+		Amomum
+		Etlingera
+		Plagiostachys
+		Burbidgea
+		Pleuranthodium
+		Riedelia
+		Tamijia
+		Stachyphrynium
+		Ctenanthe
+		Stromanthe
+		Saranthe
+		Hylaeanthe
+		Maranta
+		Halopegia
+		Marantochloa
+		Ischnosiphon
+		Hypselodelphys
+		Sarcophrynium
+		Commelina
+		Pollia
+		Dictyospermum
+		Polyspatha
+		Aneilema
+		Tricarpelema
+		Buforrestia
+		Floscopa
+		Murdannia
+		Cyanotis
+		Palisota
+		Amischotolype
+		Thyrsanthemum
+		Weldenia
+		Gibasis
+		Tradescantia
+		Callisia
+		Tinantia
+		Dichorisandra
+		Philydrum
+		Helmholtzia
+		Blancoa
+		Conostylis
+		Tribonanthes
+		Dilatris
+		Wachendorfia
+		Pyrrorhiza
+		Schiekia
+		Xiphidium
+		Pontederia
+		Heteranthera
+		Dasypogon
+		Calectasia
+		Baxteria
+		Diuris
+		Spiranthes
+		Goodyera
+		Zeuxine
+		Habenaria
+		Dactylorhiza
+		Platanthera
+		Serapias
+		Satyrium
+		Disa
+		Agrostophyllum
+		Epidendrum
+		Encyclia
+		Domingoa
+		Stelis
+		Dryadella
+		Masdevallia
+		Octomeria
+		Cymbidium
+		Tolumnia
+		Oncidium
+		Zygopetalum
+		Koellensteinia
+		Maxillaria
+		Oeceoclades
+		Eulophia
+		Trichoglottis
+		Phalaenopsis
+		Robiquetia
+		Arachnis
+		Thrixspermum
+		Peristylus
+		Phaius
+		Calanthe
+		Tainia
+		Phreatia
+		Eria
+		Liparis
+		Oberonia
+		Malaxis
+		Bulbophyllum
+		Dendrobium
+		Coelogyne
+		Neottia
+		Alania
+		Borya
+		Milligania
+		Astelia
+		Hypoxis
+		Curculigo
+		Chlorophytum
+		Yucca
+		Agave
+		Beschorneria
+		Hosta
+		Herreria
+		Drimiopsis
+		Ledebouria
+		Muscari
+		Bellevalia
+		Drimia
+		Scilla
+		Brodiaea
+		Nolina
+		Beaucarnea
+		Liriope
+		Ophiopogon
+		Reineckea
+		Convallaria
+		Polygonatum
+		Dracaena
+		Lomandra
+		Cordyline
+		Narcissus
+		Galanthus
+		Pancratium
+		Lycoris
+		Hymenocallis
+		Hessea
+		Crinum
+		Tristagma
+		Gilliesia
+		Tulbaghia
+		Camassia
+		Simethis
+		Haworthia
+		Bulbine
+		Bulbinella
+		Eremurus
+		Kniphofia
+		Asphodeline
+		Asphodelus
+		Watsonia
+		Micranthus
+		Freesia
+		Crocosmia
+		Chasmanthe
+		Ixia
+		Sparaxis
+		Tritonia
+		Babiana
+		Gladiolus
+		Hesperantha
+		Geissorhiza
+		Crocus
+		Romulea
+		Klattia
+		Nivenia
+		Aristea
+		Patersonia
+		Hesperoxiphion
+		Nemastylis
+		Calydorea
+		Orthrosanthus
+		Sisyrinchium
+		Ferraria
+		Moraea
+		Iris
+		Cyanella
+		Cyanastrum
+		Tecophilaea
+		Ixiolirion
+		Doryanthes
+		Clintonia
+		Fritillaria
+		Lilium
+		Tulipa
+		Erythronium
+		Calochortus
+		Tricyrtis
+		Prosartes
+		Streptopus
+		Smilax
+		Ornithoglossum
+		Colchicum
+		Gloriosa
+		Uvularia
+		Bomarea
+		Alstroemeria
+		Petermannia
+		Paris
+		Trillium
+		Xerophyllum
+		Chamaelirium
+		Helonias
+		Anticlea
+		Veratrum
+		Schoenocaulon
+		Campynemanthe
+		Corsia
+		Japonolirion
+		Aletris
+		Metanarthecium
+		Nietneria
+		Dioscorea
+		Stenomeris
+		Carludovica
+		Ludovia
+		Cyclanthus
+		Benstonea
+		Pandanus
+		Freycinetia
+		Sararanga
+		Stemona
+		Croomia
+		Stichoneuron
+		Pentastemona
+		Vellozia
+		Xerophyta
+		Remusatia
+		Colocasia
+		Steudnera
+		Alocasia
+		Arisaema
+		Arum
+		Biarum
+		Typhonium
+		Syngonium
+		Caladium
+		Xanthosoma
+		Zantedeschia
+		Philodendron
+		Homalomena
+		Cercestis
+		Calla
+		Spathicarpa
+		Spathiphyllum
+		Epipremnum
+		Scindapsus
+		Amydrium
+		Monstera
+		Rhodospatha
+		Stenospermation
+		Pothos
+		Anthurium
+		Cyrtosperma
+		Caldesia
+		Limnophyton
+		Alisma
+		Baldellia
+		Luronium
+		Blyxa
+		Hydrocharis
+		Enhalus
+		Vallisneria
+		Stuckenia
+		Potamogeton
+		Zostera
+		Phyllospadix
+		Cymodocea
+		Maundia
+		Scheuchzeria
+		Aponogeton
+		Tofieldia
+		Pleea
+		Tetrameranthus
+		Pseuduvaria
+		Huberantha
+		Meiogyne
+		Stenanona
+		Polyalthia
+		Mitrephora
+		Miliusa
+		Phaeanthus
+		Neo-uvaria
+		Monoon
+		Orophea
+		Marsypopetalum
+		Cremastosperma
+		Pseudoxandra
+		Unonopsis
+		Oxandra
+		Ephedranthus
+		Mosannona
+		Polyceratocarpus
+		Artabotrys
+		Duguetia
+		Xylopia
+		Mitrella
+		Fissistigma
+		Friesodielsia
+		Dasymaschalon
+		Monanthotaxis
+		Uvaria
+		Asimina
+		Annona
+		Goniothalamus
+		Guatteria
+		Cymbopetalum
+		Hornschuchia
+		Trigynaea
+		Anaxagorea
+		Eupomatia
+		Liriodendron
+		Degeneria
+		Gymnacranthera
+		Horsfieldia
+		Endocomia
+		Iryanthera
+		Otoba
+		Virola
+		Compsoneura
+		Coelocaryon
+		Osteophloeum
+		Brochoneura
+		Staudtia
+		Mauloutchia
+		Myristica
+		Knema
+		Dryadodaphne
+		Daphnandra
+		Atherosperma
+		Doryphora
+		Laurelia
+		Gomortega
+		Siparuna
+		Licaria
+		Ocotea
+		Endlicheria
+		Actinodaphne
+		Neolitsea
+		Machilus
+		Dehaasia
+		Persea
+		Phoebe
+		Cinnamomum
+		Alseodaphne
+		Nothaphoebe
+		Lindera
+		Caryodaphnopsis
+		Beilschmiedia
+		Cryptocarya
+		Mollinedia
+		Macrotorus
+		Hennecartia
+		Wilkiea
+		Kibara
+		Kairoa
+		Steganthera
+		Matthaea
+		Hedycarya
+		Levieria
+		Decarydendron
+		Tambourissa
+		Ephippiandra
+		Monimia
+		Palmeria
+		Peumus
+		Sparattanthelium
+		Gyrocarpus
+		Illigera
+		Hernandia
+		Chimonanthus
+		Calycanthus
+		Tasmannia
+		Drimys
+		Pseudowintera
+		Zygogynum
+		Takhtajania
+		Warburgia
+		Cinnamodendron
+		Pleodendron
+		Canella
+		Piper
+		Peperomia
+		Saururus
+		Houttuynia
+		Anemopsis
+		Thottea
+		Aristolochia
+		Asarum
+		Sarcandra
+		Chloranthus
+		Ascarina
+		Hedyosmum
+		Alphitonia
+		Emmenosperma
+		Stenanthemum
+		Spyridium
+		Trymalium
+		Ceanothus
+		Lasiodiscus
+		Phylica
+		Colubrina
+		Paliurus
+		Ziziphus
+		Hovenia
+		Reissekia
+		Gouania
+		Helinus
+		Karwinskia
+		Rhamnidium
+		Reynosia
+		Rhamnella
+		Berchemia
+		Sageretia
+		Frangula
+		Rhamnus
+		Shepherdia
+		Hippophae
+		Elaeagnus
+		Helicostylis
+		Naucleopsis
+		Olmedia
+		Pseudolmedia
+		Streblus
+		Ficus
+		Trymatococcus
+		Helianthostylis
+		Brosimum
+		Dorstenia
+		Malaisia
+		Parartocarpus
+		Paratrophis
+		Morus
+		Artocarpus
+		Maclura
+		Parietaria
+		Debregeasia
+		Boehmeria
+		Pouzolzia
+		Pipturus
+		Nothocnide
+		Cypholophus
+		Phenax
+		Oreocnide
+		Myrianthus
+		Cecropia
+		Pourouma
+		Leucosyke
+		Sarcochlamys
+		Lecanthus
+		Procris
+		Elatostema
+		Myriocarpa
+		Gyrotaenia
+		Touchardia
+		Laportea
+		Poikilospermum
+		Obetia
+		Urtica
+		Hesperocnide
+		Dendrocnide
+		Parasponia
+		Trema
+		Celtis
+		Humulus
+		Cannabis
+		Pteroceltis
+		Lozanella
+		Gironniera
+		Phyllostylon
+		Ampelocera
+		Holoptelea
+		Zelkova
+		Ulmus
+		Dirachma
+		Rubus
+		Alchemilla
+		Potentilla
+		Sanguisorba
+		Acaena
+		Rosa
+		Waldsteinia
+		Geum
+		Chaenomeles
+		Cotoneaster
+		Pyrus
+		Photinia
+		Malus
+		Crataegus
+		Amelanchier
+		Sorbus
+		Sorbaria
+		Prunus
+		Holodiscus
+		Spiraea
+		Physocarpus
+		Neillia
+		Dryas
+		Sechium
+		Cyclanthera
+		Echinopepon
+		Echinocystis
+		Marah
+		Trichosanthes
+		Luffa
+		Lagenaria
+		Cucumis
+		Muellerargia
+		Trochomeria
+		Blastania
+		Zehneria
+		Melothria
+		Scopellaria
+		Cephalopentandra
+		Diplocyclos
+		Citrullus
+		Peponium
+		Coccinia
+		Indomelothria
+		Ceratosanthes
+		Apodanthera
+		Wilbrandia
+		Psiguria
+		Gurania
+		Cucurbitella
+		Kedrostis
+		Eureiandra
+		Tecunumania
+		Sicyos
+		Cayaponia
+		Sicana
+		Calycophysum
+		Polyclathra
+		Cucurbita
+		Bryonia
+		Raphidiocystis
+		Cogniauxia
+		Momordica
+		Thladiantha
+		Alsomitra
+		Gynostemma
+		Neoalsomitra
+		Xerosicyos
+		Gerrardanthus
+		Fevillea
+		Cyclantheropsis
+		Datisca
+		Octomeles
+		Coriaria
+		Corynocarpus
+		Combretocarpus
+		Anisophyllea
+		Monnina
+		Securidaca
+		Salomonia
+		Polygala
+		Carpolobia
+		Xanthophyllum
+		Suriana
+		Stylobasium
+		Guilfoylia
+		Cadellia
+		Quillaja
+		Carya
+		Juglans
+		Pterocarya
+		Myrica
+		Betula
+		Ostrya
+		Carpinus
+		Ostryopsis
+		Ticodendron
+		Casuarina
+		Lithocarpus
+		Quercus
+		Castanea
+		Fagus
+		Nothofagus
+		Dactylaena
+		Cleome
+		Cleomella
+		Cadaba
+		Thilachium
+		Ritchiea
+		Boscia
+		Maerua
+		Neocalyptrocalyx
+		Morisonia
+		Crateva
+		Tovaria
+		Codonocarpus
+		Reseda
+		Sesamoides
+		Forchhammeria
+		Stixis
+		Emblingia
+		Salvadora
+		Limnanthes
+		Setchellanthus
+		Tropaeolum
+		Akania
+		Vasconcellea
+		Jacaratia
+		Carica
+		Cylicomorpha
+		Moringa
+		Thespesia
+		Decaschistia
+		Hibiscus
+		Abelmoschus
+		Pavonia
+		Sida
+		Hoheria
+		Malva
+		Malvastrum
+		Gaya
+		Anoda
+		Abutilon
+		Gossypium
+		Cistus
+		Tuberaria
+		Helianthemum
+		Fumana
+		Lechea
+		Vatica
+		Anisoptera
+		Hopea
+		Shorea
+		Dipterocarpus
+		Monotes
+		Leptolaena
+		Schizolaena
+		Bixa
+		Rhopalocarpus
+		Dialyceras
+		Aquilaria
+		Gyrinops
+		Lachnaea
+		Gnidia
+		Struthiola
+		Pimelea
+		Daphnopsis
+		Ovidia
+		Peddiea
+		Lasiosiphon
+		Daphne
+		Thymelaea
+		Stellera
+		Wikstroemia
+		Rhamnoneuron
+		Lasiadenia
+		Atemnosiphon
+		Phaleria
+		Dicranolepis
+		Synaptolepis
+		Craterosiphon
+		Lophostoma
+		Enkleia
+		Grielum
+		Lovoa
+		Cedrela
+		Toona
+		Neobeguea
+		Xylocarpus
+		Khaya
+		Swietenia
+		Entandrophragma
+		Turraea
+		Lepidotrichilia
+		Malleastrum
+		Trichilia
+		Cipadessa
+		Dysoxylum
+		Cabralea
+		Aphanamixis
+		Aglaia
+		Anthocarapa
+		Heckeldora
+		Guarea
+		Ruagea
+		Lansium
+		Chisocheton
+		Vavaea
+		Ekebergia
+		Walsura
+		Munronia
+		Melia
+		Melicope
+		Comptonella
+		Dutaillyea
+		Acronychia
+		Medicosma
+		Tetractomia
+		Brombya
+		Zieria
+		Neobyrnesia
+		Euodia
+		Diplolaena
+		Phebalium
+		Correa
+		Leionema
+		Asterolasia
+		Myrtopsis
+		Crowea
+		Eriostemon
+		Geijera
+		Pentaceras
+		Bosistoa
+		Vepris
+		Flindersia
+		Tetradium
+		Spiranthera
+		Angostura
+		Erythrochiton
+		Ravenia
+		Raveniopsis
+		Maclurodendron
+		Conchocarpus
+		Hortia
+		Helietta
+		Metrodorea
+		Pilocarpus
+		Acmadenia
+		Adenandra
+		Agathosma
+		Ptelea
+		Dictamnus
+		Skimmia
+		Citrus
+		Atalantia
+		Monanthocitrus
+		Murraya
+		Clausena
+		Glycosmis
+		Haplophyllum
+		Ruta
+		Spathelia
+		Harrisonia
+		Ailanthus
+		Picrasma
+		Gymnostemon
+		Perriera
+		Simarouba
+		Simaba
+		Eurycoma
+		Pierreodendron
+		Quassia
+		Amaroria
+		Soulamea
+		Castela
+		Canarium
+		Dacryodes
+		Trattinnickia
+		Haplolobus
+		Boswellia
+		Bursera
+		Commiphora
+		Protium
+		Mauria
+		Schinus
+		Thyrsodium
+		Schinopsis
+		Myracrodruon
+		Astronium
+		Loxostylis
+		Searsia
+		Smodingium
+		Sorindeia
+		Protorhus
+		Micronychia
+		Abrahamia
+		Heeria
+		Ozoroa
+		Pistacia
+		Metopium
+		Toxicodendron
+		Rhus
+		Mosquitoxylum
+		Semecarpus
+		Trichoscypha
+		Swintonia
+		Mangifera
+		Gluta
+		Bouea
+		Anacardium
+		Buchanania
+		Poupartia
+		Operculicarya
+		Harpephyllum
+		Tapirira
+		Spondias
+		Pegia
+		Dracontomelon
+		Campnosperma
+		Kirkia
+		Glenniea
+		Placodiscus
+		Pancovia
+		Nephelium
+		Talisia
+		Serjania
+		Paullinia
+		Lophostigma
+		Allophylus
+		Thouinia
+		Blighiopsis
+		Arytera
+		Sarcotoechia
+		Mischocarpus
+		Tina
+		Molinaea
+		Cupania
+		Pentascyphus
+		Matayba
+		Sarcopteryx
+		Guioa
+		Lepidopetalum
+		Jagera
+		Podonephelium
+		Lecaniodiscus
+		Elattostachys
+		Plagioscyphus
+		Macphersonia
+		Beguea
+		Camptolepis
+		Zollingeria
+		Deinbollia
+		Atalaya
+		Lepisanthes
+		Thouinidium
+		Toulicia
+		Koelreuteria
+		Dodonaea
+		Harpullia
+		Majidea
+		Magonia
+		Hypelate
+		Ganophyllum
+		Biebersteinia
+		Ackama
+		Spiraeopsis
+		Caldcluvia
+		Acrophyllum
+		Codia
+		Pancheria
+		Cunonia
+		Weinmannia
+		Vesselowskya
+		Karrabina
+		Geissois
+		Lamanonia
+		Gillbeea
+		Eucryphia
+		Platylophus
+		Ceratopetalum
+		Schizomeria
+		Bauera
+		Spiraeanthemum
+		Aristotelia
+		Vallea
+		Dubouzetia
+		Aceratium
+		Sericolea
+		Elaeocarpus
+		Crinodendron
+		Peripentadenia
+		Sloanea
+		Brunellia
+		Cephalotus
+		Agelaea
+		Rourea
+		Cnestis
+		Cnestidium
+		Pseudoconnarus
+		Ellipanthus
+		Connarus
+		Burttia
+		Vismianthus
+		Manotes
+		Sarcotheca
+		Dapania
+		Oxalis
+		Tapiscia
+		Perrottetia
+		Breynia
+		Glochidion
+		Phyllanthus
+		Andrachne
+		Bridelia
+		Cleistanthus
+		Antidesma
+		Baccaurea
+		Choriceras
+		Pseudanthus
+		Neoroepera
+		Acharia
+		Ceratiosicyos
+		Guthriea
+		Kuhlmanniodendron
+		Goupia
+		Salix
+		Populus
+		Lacistema
+		Isodendrion
+		Melicytus
+		Viola
+		Leonia
+		Rinorea
+		Basananthe
+		Deidamia
+		Passiflora
+		Dilkea
+		Adenia
+		Viridivia
+		Ctenolophon
+		Microdesmis
+		Duckesia
+		Drypetes
+		Lophopyxis
+		Bhesa
+		Exellodendron
+		Hunga
+		Acioa
+		Licania
+		Couepia
+		Moquilea
+		Hirtella
+		Chrysobalanus
+		Dactyladenia
+		Grangeria
+		Parastemon
+		Maranthes
+		Magnistipula
+		Parinari
+		Neocarya
+		Kostermanthus
+		Atuna
+		Bafodeya
+		Euphronia
+		Trigonia
+		Tapura
+		Dichapetalum
+		Balanops
+		Bruguiera
+		Ceriops
+		Kandelia
+		Rhizophora
+		Carallia
+		Pellacalyx
+		Erythroxylum
+		Irvingia
+		Allantospermum
+		Caryocar
+		Tetrapterys
+		Heteropterys
+		Sphedamnocarpus
+		Aspicarpa
+		Gaudichaudia
+		Janusia
+		Peixotoa
+		Stigmaphyllon
+		Dicella
+		Hiptage
+		Microsteira
+		Triaspis
+		Caucanthus
+		Mascagnia
+		Malpighia
+		Bunchosia
+		Amorimia
+		Hiraea
+		Burdachia
+		Tristellateia
+		Thryallis
+		Ptilochaeta
+		Brachylophon
+		Acridocarpus
+		Galphimia
+		Byrsonima
+		Pterandra
+		Elatine
+		Tirpitzia
+		Linum
+		Roucheria
+		Hugonia
+		Trigonostemon
+		Beyeria
+		Fontainea
+		Tannodia
+		Tragiella
+		Jatropha
+		Croton
+		Omphalea
+		Suregada
+		Manihot
+		Hevea
+		Micrandra
+		Cephalocroton
+		Chrozophora
+		Ditaxis
+		Bocquillonia
+		Paranecepsia
+		Acalypha
+		Macaranga
+		Tragia
+		Dalechampia
+		Plukenetia
+		Pycnocoma
+		Claoxylon
+		Erismanthus
+		Homalanthus
+		Sebastiania
+		Sapium
+		Clutia
+		Mammea
+		Mesua
+		Calophyllum
+		Kayea
+		Kielmeyera
+		Caraipa
+		Cratoxylum
+		Vismia
+		Harungana
+		Hypericum
+		Macropodiella
+		Ledermanniella
+		Inversodicraea
+		Apinagia
+		Bonnetia
+		Sauvagesia
+		Brackenridgea
+		Wallacea
+		Godoya
+		Cespedesia
+		Blastemanthus
+		Ochna
+		Ouratea
+		Campylospermum
+		Elvasia
+		Luxemburgia
+		Lophira
+		Ixonanthes
+		Apodanthes
+		Pilostyles
+		Maytenus
+		Pseudosalacia
+		Pterocelastrus
+		Gymnosporia
+		Putterlickia
+		Allocassine
+		Cassine
+		Catha
+		Dicarpellum
+		Elachyptera
+		Hippocratea
+		Campylostemon
+		Loeseneriella
+		Cheiloclinium
+		Salacia
+		Peritassa
+		Tontelea
+		Pleurostylia
+		Elaeodendron
+		Evonymopsis
+		Brexia
+		Salaciopsis
+		Pristimera
+		Crossopetalum
+		Euonymus
+		Glyptopetalum
+		Celastrus
+		Schaefferia
+		Gyminda
+		Siphonodon
+		Quetzalia
+		Microtropis
+		Zinowiewia
+		Mortonia
+		Parnassia
+		Ruptiliocarpon
+		Picramnia
+		Alvaradoa
+		Monochaetum
+		Schwackaea
+		Pleroma
+		Tibouchina
+		Heterocentron
+		Tristemma
+		Dichaetanthera
+		Melastoma
+		Osbeckia
+		Pterolepis
+		Ernestia
+		Marcetia
+		Aciotis
+		Macairea
+		Acisanthera
+		Acanthella
+		Rhynchanthera
+		Microlicia
+		Cambessedesia
+		Huberia
+		Dissochaeta
+		Triolena
+		Barthea
+		Phyllagathis
+		Medinilla
+		Sonerila
+		Amphiblemma
+		Calvoa
+		Gravesia
+		Poikilogyne
+		Meriania
+		Adelobotrys
+		Graffenrieda
+		Salpinga
+		Miconia
+		Blakea
+		Astronidium
+		Beccarianthus
+		Bellucia
+		Pternandra
+		Mouriri
+		Memecylon
+		Warneckea
+		Olinia
+		Penaea
+		Alzatea
+		Axinandra
+		Darwinia
+		Thryptomene
+		Triplarina
+		Scholtzia
+		Eucalyptus
+		Corymbia
+		Angophora
+		Melaleuca
+		Syzygium
+		Decaspermum
+		Gossia
+		Austromyrtus
+		Eugenia
+		Siphoneugena
+		Myrciaria
+		Myrcia
+		Archirhodomyrtus
+		Myrceugenia
+		Psidium
+		Campomanesia
+		Myrtus
+		Lithomyrtus
+		Tristania
+		Xanthomyrtus
+		Metrosideros
+		Basisperma
+		Xanthostemon
+		Vochysia
+		Salvertia
+		Erisma
+		Qualea
+		Ruizterania
+		Callisthene
+		Combretum
+		Terminalia
+		Macropteranthes
+		Laguncularia
+		Pemphis
+		Woodfordia
+		Pleurophora
+		Cuphea
+		Diplusodon
+		Ammannia
+		Crenea
+		Ginoria
+		Lawsonia
+		Lythrum
+		Decodon
+		Lagerstroemia
+		Heimia
+		Taraxia
+		Camissonia
+		Gayophytum
+		Oenothera
+		Eulobus
+		Epilobium
+		Lopezia
+		Fuchsia
+		Ludwigia
+		Zygophyllum
+		Roepera
+		Porlieria
+		Pintoa
+		Viscainoa
+		Tribulus
+		Tribulopis
+		Krameria
+		Pelargonium
+		Geranium
+		Francoa
+		Crossosoma
+		Stachyurus
+		Staphylea
+		Guamatela
+		Strasburgeria
+		Sedum
+		Kalanchoe
+		Crassula
+		Penthorum
+		Gonocarpus
+		Tetracarpaea
+		Itea
+		Astilbe
+		Tanakaea
+		Rodgersia
+		Bergenia
+		Chrysosplenium
+		Tellima
+		Mitella
+		Heuchera
+		Lithophragma
+		Saxifraga
+		Ribes
+		Exbucklandia
+		Noahdendron
+		Ostrearia
+		Neostrearia
+		Trichocladus
+		Sinowilsonia
+		Parrotia
+		Distylium
+		Parrotiopsis
+		Fothergilla
+		Corylopsis
+		Maingaya
+		Matudaea
+		Loropetalum
+		Liquidambar
+		Cercidiphyllum
+		Daphniphyllum
+		Paeonia
+		Ampelopsis
+		Vitis
+		Ampelocissus
+		Cayratia
+		Tetrastigma
+		Cyphostemma
+		Cissus
+		Leea
+		Opilia
+		Urobotrya
+		Cansjera
+		Agonandra
+		Amylotheca
+		Lysiana
+		Tristerix
+		Notanthera
+		Struthanthus
+		Dendropemon
+		Loranthus
+		Helixanthera
+		Scurrula
+		Taxillus
+		Oedina
+		Erianthemum
+		Oncella
+		Dendrophthoe
+		Misodendrum
+		Gomphrena
+		Blutaparon
+		Froelichia
+		Pfaffia
+		Tidestromia
+		Alternanthera
+		Cyathula
+		Pandiaka
+		Nelsia
+		Achyranthes
+		Pupalia
+		Psilotrichum
+		Centemopsis
+		Iresine
+		Amaranthus
+		Chamissoa
+		Celosia
+		Hermbstaedtia
+		Deeringia
+		Charpentiera
+		Achatocarpus
+		Dianthus
+		Petrorhagia
+		Saponaria
+		Pseudostellaria
+		Stellaria
+		Moehringia
+		Spergularia
+		Schiedea
+		Silene
+		Paronychia
+		Herniaria
+		Corrigiola
+		Petiveria
+		Monococcus
+		Rivina
+		Hilleria
+		Trichostigma
+		Seguieria
+		Commicarpus
+		Nyctaginia
+		Acleisanthes
+		Boerhavia
+		Allionia
+		Mirabilis
+		Abronia
+		Tripterocalyx
+		Bougainvillea
+		Pisonia
+		Guapira
+		Neea
+		Colignonia
+		Salpianthus
+		Phytolacca
+		Ercilla
+		Agdestis
+		Gisekia
+		Zaleya
+		Tetragonia
+		Cephalophyllum
+		Braunsia
+		Lampranthus
+		Carpobrotus
+		Disphyma
+		Trichodiadema
+		Gunniopsis
+		Barbeuia
+		Lophiocarpus
+		Chamaecereus
+		Trichocereus
+		Acanthocalycium
+		Oroya
+		Cleistocactus
+		Pilosocereus
+		Cereus
+		Gymnocalycium
+		Rebutia
+		Parodia
+		Echinocereus
+		Acanthocereus
+		Corryocactus
+		Pfeiffera
+		Austrocactus
+		Rhipsalis
+		Frailea
+		Copiapoa
+		Strombocactus
+		Cumulopuntia
+		Opuntia
+		Pereskia
+		Didierea
+		Alluaudiopsis
+		Portulacaria
+		Anredera
+		Montia
+		Claytonia
+		Calyptridium
+		Trigastrotheca
+		Mollugo
+		Glinus
+		Limeum
+		Stegnosperma
+		Microtea
+		Simmondsia
+		Rhabdodendron
+		Aegialitis
+		Ceratostigma
+		Plumbago
+		Acantholimon
+		Psylliostachys
+		Limoniastrum
+		Reynoutria
+		Polygonum
+		Muehlenbeckia
+		Rumex
+		Rheum
+		Bistorta
+		Persicaria
+		Gymnopodium
+		Eriogonum
+		Ruprechtia
+		Triplaris
+		Coccoloba
+		Dionaea
+		Nepenthes
+		Ancistrocladus
+		Dioncophyllum
+		Baissea
+		Forsteronia
+		Echites
+		Artia
+		Parsonsia
+		Prestonia
+		Apocynum
+		Vallaris
+		Wrightia
+		Plumeria
+		Cerbera
+		Amsonia
+		Carissa
+		Gonioma
+		Melodinus
+		Alyxia
+		Voacanga
+		Tabernaemontana
+		Spongiosperma
+		Landolphia
+		Pacouria
+		Hancornia
+		Parahancornia
+		Kopsia
+		Rauvolfia
+		Alstonia
+		Ochrosia
+		Strempeliopsis
+		Aspidosperma
+		Mitrasacme
+		Geniostoma
+		Spigelia
+		Strychnos
+		Neuburgia
+		Swertia
+		Halenia
+		Tripterospermum
+		Macrocarpaea
+		Chironia
+		Sebaea
+		Canscora
+		Exacum
+		Gelsemium
+		Manettia
+		Spermacoce
+		Coprosma
+		Asperula
+		Paederia
+		Geophila
+		Palicourea
+		Rudgea
+		Notopleura
+		Hydnophytum
+		Psychotria
+		Coelospermum
+		Coccocypselum
+		Cruckshanksia
+		Lasianthus
+		Pauridiantha
+		Ophiorrhiza
+		Cyclophyllum
+		Canthium
+		Psydrax
+		Vangueria
+		Rothmannia
+		Gardenia
+		Randia
+		Aidia
+		Pavetta
+		Tricalysia
+		Wendlandia
+		Ixora
+		Macrocnemum
+		Rustia
+		Elaeagia
+		Erithalis
+		Bikkia
+		Rondeletia
+		Timonius
+		Antirhea
+		Guettarda
+		Remijia
+		Cinchona
+		Nauclea
+		Uncaria
+		Neonauclea
+		Steenisia
+		Ehretia
+		Bourreria
+		Cordia
+		Varronia
+		Coldenia
+		Heliotropium
+		Lappula
+		Plagiobothrys
+		Amsinckia
+		Cynoglossum
+		Solenanthus
+		Paracaryum
+		Trigonotis
+		Mertensia
+		Trichodesma
+		Borago
+		Pentaglottis
+		Anchusa
+		Pulmonaria
+		Lithospermum
+		Cystostemon
+		Lobostemon
+		Echium
+		Arnebia
+		Alkanna
+		Nonea
+		Browallia
+		Cestrum
+		Sessea
+		Petunia
+		Lycianthes
+		Capsicum
+		Cuatresia
+		Jaltomata
+		Brachistus
+		Physalis
+		Withania
+		Athenaea
+		Vassobia
+		Iochroma
+		Solanum
+		Solandra
+		Hawkesiophyton
+		Juanulloa
+		Markea
+		Atropa
+		Nolana
+		Nicotiana
+		Grammosolen
+		Cyphanthera
+		Nierembergia
+		Brunfelsia
+		Calibrachoa
+		Schizanthus
+		Erycibe
+		Bonamia
+		Evolvulus
+		Dichondra
+		Porana
+		Calycobolus
+		Maripa
+		Neuropeltis
+		Jacquemontia
+		Rapona
+		Merremia
+		Operculina
+		Convolvulus
+		Calystegia
+		Lepistemon
+		Stictocardia
+		Argyreia
+		Ipomoea
+		Astripomoea
+		Decalobanthus
+		Hydrolea
+		Sphenoclea
+		Grevea
+		Montinia
+		Microdon
+		Chaenostoma
+		Manulea
+		Lyperia
+		Jamesbrittenia
+		Verbascum
+		Scrophularia
+		Buddleja
+		Gomphostigma
+		Freylinia
+		Nemesia
+		Aptosimum
+		Lindernia
+		Vandellia
+		Torenia
+		Crepidorhopalon
+		Sclerochiton
+		Blepharis
+		Acanthus
+		Aphelandra
+		Stenandrium
+		Justicia
+		Anisostachya
+		Hypoestes
+		Dicliptera
+		Rostellularia
+		Rungia
+		Schaueria
+		Ecbolium
+		Brachystephanus
+		Isoglossa
+		Odontonema
+		Pseuderanthemum
+		Asystasia
+		Phialacanthus
+		Graptophyllum
+		Strobilanthes
+		Petalidium
+		Duosperma
+		Phaulopsis
+		Brillantaisia
+		Hygrophila
+		Sanchezia
+		Ruellia
+		Acanthopale
+		Eranthemum
+		Whitfieldia
+		Andrographis
+		Gymnostachyum
+		Lepidagathis
+		Barleria
+		Thunbergia
+		Mendoncia
+		Staurogyne
+		Elytraria
+		Pterodiscus
+		Sesamum
+		Thomandersia
+		Amphitecna
+		Parmentiera
+		Phyllarthron
+		Colea
+		Stereospermum
+		Kigelia
+		Markhamia
+		Dolichandrone
+		Catophractes
+		Radermachera
+		Adenocalymma
+		Anemopaegma
+		Amphilophium
+		Bignonia
+		Mansoa
+		Catalpa
+		Chilopsis
+		Pandorea
+		Incarvillea
+		Deplanchea
+		Tecoma
+		Campsis
+		Eccremocarpus
+		Jacaranda
+		Ibicella
+		Proboscidea
+		Martynia
+		Priva
+		Lantana
+		Lippia
+		Phyla
+		Verbena
+		Citharexylum
+		Stachytarpheta
+		Duranta
+		Petrea
+		Schlegelia
+		Exarata
+		Gibsoniothamnus
+		Pedicularis
+		Euphrasia
+		Bartsia
+		Melampyrum
+		Buchnera
+		Rhamphicarpa
+		Centranthera
+		Alectra
+		Lindenbergia
+		Mazus
+		Mimulus
+		Hemichaena
+		Phryma
+		Mentha
+		Pseudocarpidium
+		Hymenopyramis
+		Tectona
+		Pityrodia
+		Chloanthes
+		Quoya
+		Pinguicula
+		Stilbe
+		Campylostachys
+		Retzia
+		Nuxia
+		Anastrabe
+		Bowkeria
+		Halleria
+		Charadrophila
+		Byblis
+		Veronica
+		Wulfenia
+		Digitalis
+		Littorella
+		Plantago
+		Antirrhinum
+		Linaria
+		Penstemon
+		Ourisia
+		Adenosma
+		Stemodia
+		Loxostigma
+		Lysionotus
+		Primulina
+		Oreocharis
+		Didymocarpus
+		Cyrtandra
+		Aeschynanthus
+		Agalmyla
+		Henckelia
+		Paraboea
+		Boea
+		Dorcoceras
+		Ornithoboea
+		Platystemma
+		Rhynchotechum
+		Epithema
+		Stauranthera
+		Rhynchoglossum
+		Chrysothemis
+		Nautilocalyx
+		Nematanthus
+		Codonanthe
+		Drymonia
+		Columnea
+		Glossoloma
+		Corytoplectus
+		Episcia
+		Sinningia
+		Monopyle
+		Gloxinia
+		Pearcea
+		Kohleria
+		Achimenes
+		Solenophora
+		Diastema
+		Rhytidophyllum
+		Gesneria
+		Gasteranthus
+		Cremosperma
+		Besleria
+		Napeanthus
+		Calceolaria
+		Chionanthus
+		Notelaea
+		Nestegis
+		Phillyrea
+		Osmanthus
+		Olea
+		Forestiera
+		Fraxinus
+		Ligustrum
+		Syringa
+		Jasminum
+		Silvianthus
+		Carlemannia
+		Plocosperma
+		Vahlia
+		Pyrenacantha
+		Ryticaryum
+		Sleumeria
+		Merrilliodendron
+		Mappia
+		Iodes
+		Aucuba
+		Garrya
+		Eucommia
+		Phyllonoma
+		Helwingia
+		Ilex
+		Medusanthera
+		Grisollea
+		Codiocarpus
+		Stemonurus
+		Whitmorea
+		Irvingbaileya
+		Gomphandra
+		Discophora
+		Cardiopteris
+		Gonocaryum
+		Pseudobotrys
+		Citronella
+		Moschopsis
+		Calycera
+		Gamocarpha
+		Acicarpha
+		Coopernookia
+		Goodenia
+		Scaevola
+		Dampiera
+		Nymphoides
+		Ornduffia
+		Menyanthes
+		Forstera
+		Stylidium
+		Platyspermation
+		Alseuosmia
+		Wittsteinia
+		Crispiloba
+		Argophyllum
+		Burmeistera
+		Lobelia
+		Adenophora
+		Trachelium
+		Musschia
+		Jasione
+		Codonopsis
+		Canarina
+		Carpodetus
+		Cuttsia
+		Abrophyllum
+		Roussea
+		Pentaphragma
+		Mackinlaya
+		Eleutherococcus
+		Heptapleurum
+		Hedera
+		Polyscias
+		Meryta
+		Panax
+		Aralia
+		Harmsiopanax
+		Astrotricha
+		Billardiera
+		Marianthus
+		Cheiranthera
+		Bursaria
+		Rhytidosporum
+		Auranticarpa
+		Pittosporum
+		Griselinia
+		Torricellia
+		Melanophylla
+		Pennantia
+		Abelia
+		Dipelta
+		Linnaea
+		Vesalea
+		Zabelia
+		Heptacodium
+		Triosteum
+		Symphoricarpos
+		Lonicera
+		Diervilla
+		Weigela
+		Adoxa
+		Sambucus
+		Viburnum
+		Anopterus
+		Polyosma
+		Paracryphia
+		Quintinia
+		Escallonia
+		Forgesia
+		Columellia
+		Desfontainia
+		Berzelia
+		Oncotheca
+		Metteniusa
+		Platea
+		Apodytes
+		Gaultheria
+		Psammisia
+		Macleania
+		Cavendishia
+		Thibaudia
+		Dimorphanthera
+		Themistoclesia
+		Vaccinium
+		Agapetes
+		Agarista
+		Pieris
+		Lyonia
+		Styphelia
+		Rhododendron
+		Elliottia
+		Bejaria
+		Arbutus
+		Cyrilla
+		Cliftonia
+		Clethra
+		Actinidia
+		Saurauia
+		Roridula
+		Sarracenia
+		Halesia
+		Pterostyrax
+		Sinojackia
+		Bruinsmia
+		Alniphyllum
+		Styrax
+		Berneuxia
+		Schizocodon
+		Shortia
+		Galax
+		Symplocos
+		Camellia
+		Schima
+		Stewartia
+		Ternstroemia
+		Eurya
+		Freziera
+		Cleyera
+		Palaquium
+		Diploknema
+		Payena
+		Isonandra
+		Manilkara
+		Labourdonnaisia
+		Mimusops
+		Labramia
+		Capurodendron
+		Gambeya
+		Madhuca
+		Planchonella
+		Niemeyera
+		Sersalisia
+		Chrysophyllum
+		Pradosia
+		Micropholis
+		Ecclinusa
+		Sarcaulus
+		Omphalocarpum
+		Synsepalum
+		Eberhardtia
+		Sarcosperma
+		Soldanella
+		Primula
+		Androsace
+		Cyclamen
+		Lysimachia
+		Stimpsonia
+		Coris
+		Samolus
+		Diospyros
+		Euclea
+		Cobaea
+		Gilia
+		Collomia
+		Allophyllum
+		Polemonium
+		Microsteris
+		Phlox
+		Langloisia
+		Careya
+		Barringtonia
+		Foetidia
+		Petersianthus
+		Allantoma
+		Eschweilera
+		Lecythis
+		Couroupita
+		Gustavia
+		Grias
+		Asteranthos
+		Crateranthus
+		Napoleonaea
+		Tetramerista
+		Pentamerista
+		Pelliciera
+		Marcgravia
+		Marcgraviastrum
+		Norantea
+		Souroubea
+		Ruyschia
+		Schwartzia
+		Impatiens
+		Philadelphus
+		Deutzia
+		Fendlerella
+		Hydrangea
+		Eucnide
+		Nasa
+		Caiophora
+		Loasa
+		Aosa
+		Cornus
+		Davidia
+		Nyssa
+		Camptotheca
+		Curtisia
+		Grubbia
+		Aextoxicon
+		Berberidopsis
+		Streptothamnus
+		Curatella
+		Tetracera
+		Dillenia
+		Acrotrema
+		Gunnera
+		Trochodendron
+		Pachysandra
+		Buxus
+		Hakea
+		Grevillea
+		Alloxylon
+		Stenocarpus
+		Lomatia
+		Carnarvonia
+		Hicksbeachia
+		Macadamia
+		Banksia
+		Austromuellera
+		Xylomelum
+		Lambertia
+		Triunia
+		Orites
+		Protea
+		Faurea
+		Leucadendron
+		Spatalla
+		Leucospermum
+		Mimetes
+		Serruria
+		Eidothea
+		Platanus
+		Nelumbo
+		Meliosma
+		Corydalis
+		Rupicapnos
+		Sarcocapnos
+		Ceratocapnos
+		Dactylicapnos
+		Dicentra
+		Hypecoum
+		Papaver
+		Argemone
+		Platystemon
+		Macleaya
+		Glaucium
+		Chelidonium
+		Coptis
+		Ranunculus
+		Anemone
+		Pulsatilla
+		Actaea
+		Clematis
+		Helleborus
+		Callianthemum
+		Adonis
+		Trollius
+		Aconitum
+		Delphinium
+		Thalictrum
+		Semiaquilegia
+		Aquilegia
+		Dichocarpum
+		Berberis
+		Gymnospermium
+		Leontice
+		Caulophyllum
+		Podophyllum
+		Bongardia
+		Epimedium
+		Burasaia
+		Jateorhiza
+		Odontocarya
+		Tinospora
+		Chasmanthera
+		Coscinium
+		Pachygone
+		Cocculus
+		Hyperbaena
+		Albertisia
+		Tiliacora
+		Carronia
+		Pycnarrhena
+		Sciadotenia
+		Cissampelos
+		Cyclea
+		Stephania
+		Limacia
+		Legnephora
+		Anomospermum
+		Abuta
+		Diploclisia
+		Sinomenium
+		Menispermum
+		Sinofranchetia
+		Boquila
+		Akebia
+		Decaisnea
+		Circaeaster
+		Euptelea
+		Kadsura
+		Schisandra
+		Illicium
+		Trimenia
+		Austrobaileya
+		Nuphar
+		Euryale
+		Nymphaea
+		Brasenia
+		Amborella
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Cinnagrostis,
+		2	Joinvillea,
+		3	Flagellaria,
+		4	Hypolaena,
+		5	Alexgeorgea,
+		6	Tyrbastes,
+		7	Elegia,
+		8	Cannomois,
+		9	Hypodiscus,
+		10	Willdenowia,
+		11	Xyris,
+		12	Comanthera,
+		13	Syngonanthus,
+		14	Paepalanthus,
+		15	Eriocaulon,
+		16	Carex,
+		17	Scirpus,
+		18	Eriophorum,
+		19	Ficinia,
+		20	Cyperus,
+		21	Schoenoplectus,
+		22	Bolboschoenus,
+		23	Fimbristylis,
+		24	Eleocharis,
+		25	Rhynchospora,
+		26	Costularia,
+		27	Lepidosperma,
+		28	Machaerina,
+		29	Schoenus,
+		30	Everardia,
+		31	Bisboeckelera,
+		32	Calyptrocarya,
+		33	Hypolytrum,
+		34	Mapania,
+		35	Marsippospermum,
+		36	Juncus,
+		37	Luzula,
+		38	Monotrema,
+		39	Windsorina,
+		40	Epidryos,
+		41	Stegolepis,
+		42	Cephalostemon,
+		43	Rapatea,
+		44	Guzmania,
+		45	Werauhia,
+		46	Tillandsia,
+		47	Catopsis,
+		48	Portea,
+		49	Neoregelia,
+		50	Orthophytum,
+		51	Greigia,
+		52	Bromelia,
+		53	Puya,
+		54	Pitcairnia,
+		55	Lindmania,
+		56	Phenakospermum,
+		57	Ravenala,
+		58	Strelitzia,
+		59	Ensete,
+		60	Musa,
+		61	Dimerocostus,
+		62	Chamaecostus,
+		63	Tapeinochilos,
+		64	Costus,
+		65	Curcuma,
+		66	Zingiber,
+		67	Hedychium,
+		68	Kaempferia,
+		69	Boesenbergia,
+		70	Cautleya,
+		71	Roscoea,
+		72	Caulokaempferia,
+		73	Camptandra,
+		74	Globba,
+		75	Aframomum,
+		76	Renealmia,
+		77	Alpinia,
+		78	Elettaria,
+		79	Amomum,
+		80	Etlingera,
+		81	Plagiostachys,
+		82	Burbidgea,
+		83	Pleuranthodium,
+		84	Riedelia,
+		85	Tamijia,
+		86	Stachyphrynium,
+		87	Ctenanthe,
+		88	Stromanthe,
+		89	Saranthe,
+		90	Hylaeanthe,
+		91	Maranta,
+		92	Halopegia,
+		93	Marantochloa,
+		94	Ischnosiphon,
+		95	Hypselodelphys,
+		96	Sarcophrynium,
+		97	Commelina,
+		98	Pollia,
+		99	Dictyospermum,
+		100	Polyspatha,
+		101	Aneilema,
+		102	Tricarpelema,
+		103	Buforrestia,
+		104	Floscopa,
+		105	Murdannia,
+		106	Cyanotis,
+		107	Palisota,
+		108	Amischotolype,
+		109	Thyrsanthemum,
+		110	Weldenia,
+		111	Gibasis,
+		112	Tradescantia,
+		113	Callisia,
+		114	Tinantia,
+		115	Dichorisandra,
+		116	Philydrum,
+		117	Helmholtzia,
+		118	Blancoa,
+		119	Conostylis,
+		120	Tribonanthes,
+		121	Dilatris,
+		122	Wachendorfia,
+		123	Pyrrorhiza,
+		124	Schiekia,
+		125	Xiphidium,
+		126	Pontederia,
+		127	Heteranthera,
+		128	Dasypogon,
+		129	Calectasia,
+		130	Baxteria,
+		131	Diuris,
+		132	Spiranthes,
+		133	Goodyera,
+		134	Zeuxine,
+		135	Habenaria,
+		136	Dactylorhiza,
+		137	Platanthera,
+		138	Serapias,
+		139	Satyrium,
+		140	Disa,
+		141	Agrostophyllum,
+		142	Epidendrum,
+		143	Encyclia,
+		144	Domingoa,
+		145	Stelis,
+		146	Dryadella,
+		147	Masdevallia,
+		148	Octomeria,
+		149	Cymbidium,
+		150	Tolumnia,
+		151	Oncidium,
+		152	Zygopetalum,
+		153	Koellensteinia,
+		154	Maxillaria,
+		155	Oeceoclades,
+		156	Eulophia,
+		157	Trichoglottis,
+		158	Phalaenopsis,
+		159	Robiquetia,
+		160	Arachnis,
+		161	Thrixspermum,
+		162	Peristylus,
+		163	Phaius,
+		164	Calanthe,
+		165	Tainia,
+		166	Phreatia,
+		167	Eria,
+		168	Liparis,
+		169	Oberonia,
+		170	Malaxis,
+		171	Bulbophyllum,
+		172	Dendrobium,
+		173	Coelogyne,
+		174	Neottia,
+		175	Alania,
+		176	Borya,
+		177	Milligania,
+		178	Astelia,
+		179	Hypoxis,
+		180	Curculigo,
+		181	Chlorophytum,
+		182	Yucca,
+		183	Agave,
+		184	Beschorneria,
+		185	Hosta,
+		186	Herreria,
+		187	Drimiopsis,
+		188	Ledebouria,
+		189	Muscari,
+		190	Bellevalia,
+		191	Drimia,
+		192	Scilla,
+		193	Brodiaea,
+		194	Nolina,
+		195	Beaucarnea,
+		196	Liriope,
+		197	Ophiopogon,
+		198	Reineckea,
+		199	Convallaria,
+		200	Polygonatum,
+		201	Dracaena,
+		202	Lomandra,
+		203	Cordyline,
+		204	Narcissus,
+		205	Galanthus,
+		206	Pancratium,
+		207	Lycoris,
+		208	Hymenocallis,
+		209	Hessea,
+		210	Crinum,
+		211	Tristagma,
+		212	Gilliesia,
+		213	Tulbaghia,
+		214	Camassia,
+		215	Simethis,
+		216	Haworthia,
+		217	Bulbine,
+		218	Bulbinella,
+		219	Eremurus,
+		220	Kniphofia,
+		221	Asphodeline,
+		222	Asphodelus,
+		223	Watsonia,
+		224	Micranthus,
+		225	Freesia,
+		226	Crocosmia,
+		227	Chasmanthe,
+		228	Ixia,
+		229	Sparaxis,
+		230	Tritonia,
+		231	Babiana,
+		232	Gladiolus,
+		233	Hesperantha,
+		234	Geissorhiza,
+		235	Crocus,
+		236	Romulea,
+		237	Klattia,
+		238	Nivenia,
+		239	Aristea,
+		240	Patersonia,
+		241	Hesperoxiphion,
+		242	Nemastylis,
+		243	Calydorea,
+		244	Orthrosanthus,
+		245	Sisyrinchium,
+		246	Ferraria,
+		247	Moraea,
+		248	Iris,
+		249	Cyanella,
+		250	Cyanastrum,
+		251	Tecophilaea,
+		252	Ixiolirion,
+		253	Doryanthes,
+		254	Clintonia,
+		255	Fritillaria,
+		256	Lilium,
+		257	Tulipa,
+		258	Erythronium,
+		259	Calochortus,
+		260	Tricyrtis,
+		261	Prosartes,
+		262	Streptopus,
+		263	Smilax,
+		264	Ornithoglossum,
+		265	Colchicum,
+		266	Gloriosa,
+		267	Uvularia,
+		268	Bomarea,
+		269	Alstroemeria,
+		270	Petermannia,
+		271	Paris,
+		272	Trillium,
+		273	Xerophyllum,
+		274	Chamaelirium,
+		275	Helonias,
+		276	Anticlea,
+		277	Veratrum,
+		278	Schoenocaulon,
+		279	Campynemanthe,
+		280	Corsia,
+		281	Japonolirion,
+		282	Aletris,
+		283	Metanarthecium,
+		284	Nietneria,
+		285	Dioscorea,
+		286	Stenomeris,
+		287	Carludovica,
+		288	Ludovia,
+		289	Cyclanthus,
+		290	Benstonea,
+		291	Pandanus,
+		292	Freycinetia,
+		293	Sararanga,
+		294	Stemona,
+		295	Croomia,
+		296	Stichoneuron,
+		297	Pentastemona,
+		298	Vellozia,
+		299	Xerophyta,
+		300	Remusatia,
+		301	Colocasia,
+		302	Steudnera,
+		303	Alocasia,
+		304	Arisaema,
+		305	Arum,
+		306	Biarum,
+		307	Typhonium,
+		308	Syngonium,
+		309	Caladium,
+		310	Xanthosoma,
+		311	Zantedeschia,
+		312	Philodendron,
+		313	Homalomena,
+		314	Cercestis,
+		315	Calla,
+		316	Spathicarpa,
+		317	Spathiphyllum,
+		318	Epipremnum,
+		319	Scindapsus,
+		320	Amydrium,
+		321	Monstera,
+		322	Rhodospatha,
+		323	Stenospermation,
+		324	Pothos,
+		325	Anthurium,
+		326	Cyrtosperma,
+		327	Caldesia,
+		328	Limnophyton,
+		329	Alisma,
+		330	Baldellia,
+		331	Luronium,
+		332	Blyxa,
+		333	Hydrocharis,
+		334	Enhalus,
+		335	Vallisneria,
+		336	Stuckenia,
+		337	Potamogeton,
+		338	Zostera,
+		339	Phyllospadix,
+		340	Cymodocea,
+		341	Maundia,
+		342	Scheuchzeria,
+		343	Aponogeton,
+		344	Tofieldia,
+		345	Pleea,
+		346	Tetrameranthus,
+		347	Pseuduvaria,
+		348	Huberantha,
+		349	Meiogyne,
+		350	Stenanona,
+		351	Polyalthia,
+		352	Mitrephora,
+		353	Miliusa,
+		354	Phaeanthus,
+		355	Neo-uvaria,
+		356	Monoon,
+		357	Orophea,
+		358	Marsypopetalum,
+		359	Cremastosperma,
+		360	Pseudoxandra,
+		361	Unonopsis,
+		362	Oxandra,
+		363	Ephedranthus,
+		364	Mosannona,
+		365	Polyceratocarpus,
+		366	Artabotrys,
+		367	Duguetia,
+		368	Xylopia,
+		369	Mitrella,
+		370	Fissistigma,
+		371	Friesodielsia,
+		372	Dasymaschalon,
+		373	Monanthotaxis,
+		374	Uvaria,
+		375	Asimina,
+		376	Annona,
+		377	Goniothalamus,
+		378	Guatteria,
+		379	Cymbopetalum,
+		380	Hornschuchia,
+		381	Trigynaea,
+		382	Anaxagorea,
+		383	Eupomatia,
+		384	Liriodendron,
+		385	Degeneria,
+		386	Gymnacranthera,
+		387	Horsfieldia,
+		388	Endocomia,
+		389	Iryanthera,
+		390	Otoba,
+		391	Virola,
+		392	Compsoneura,
+		393	Coelocaryon,
+		394	Osteophloeum,
+		395	Brochoneura,
+		396	Staudtia,
+		397	Mauloutchia,
+		398	Myristica,
+		399	Knema,
+		400	Dryadodaphne,
+		401	Daphnandra,
+		402	Atherosperma,
+		403	Doryphora,
+		404	Laurelia,
+		405	Gomortega,
+		406	Siparuna,
+		407	Licaria,
+		408	Ocotea,
+		409	Endlicheria,
+		410	Actinodaphne,
+		411	Neolitsea,
+		412	Machilus,
+		413	Dehaasia,
+		414	Persea,
+		415	Phoebe,
+		416	Cinnamomum,
+		417	Alseodaphne,
+		418	Nothaphoebe,
+		419	Lindera,
+		420	Caryodaphnopsis,
+		421	Beilschmiedia,
+		422	Cryptocarya,
+		423	Mollinedia,
+		424	Macrotorus,
+		425	Hennecartia,
+		426	Wilkiea,
+		427	Kibara,
+		428	Kairoa,
+		429	Steganthera,
+		430	Matthaea,
+		431	Hedycarya,
+		432	Levieria,
+		433	Decarydendron,
+		434	Tambourissa,
+		435	Ephippiandra,
+		436	Monimia,
+		437	Palmeria,
+		438	Peumus,
+		439	Sparattanthelium,
+		440	Gyrocarpus,
+		441	Illigera,
+		442	Hernandia,
+		443	Chimonanthus,
+		444	Calycanthus,
+		445	Tasmannia,
+		446	Drimys,
+		447	Pseudowintera,
+		448	Zygogynum,
+		449	Takhtajania,
+		450	Warburgia,
+		451	Cinnamodendron,
+		452	Pleodendron,
+		453	Canella,
+		454	Piper,
+		455	Peperomia,
+		456	Saururus,
+		457	Houttuynia,
+		458	Anemopsis,
+		459	Thottea,
+		460	Aristolochia,
+		461	Asarum,
+		462	Sarcandra,
+		463	Chloranthus,
+		464	Ascarina,
+		465	Hedyosmum,
+		466	Alphitonia,
+		467	Emmenosperma,
+		468	Stenanthemum,
+		469	Spyridium,
+		470	Trymalium,
+		471	Ceanothus,
+		472	Lasiodiscus,
+		473	Phylica,
+		474	Colubrina,
+		475	Paliurus,
+		476	Ziziphus,
+		477	Hovenia,
+		478	Reissekia,
+		479	Gouania,
+		480	Helinus,
+		481	Karwinskia,
+		482	Rhamnidium,
+		483	Reynosia,
+		484	Rhamnella,
+		485	Berchemia,
+		486	Sageretia,
+		487	Frangula,
+		488	Rhamnus,
+		489	Shepherdia,
+		490	Hippophae,
+		491	Elaeagnus,
+		492	Helicostylis,
+		493	Naucleopsis,
+		494	Olmedia,
+		495	Pseudolmedia,
+		496	Streblus,
+		497	Ficus,
+		498	Trymatococcus,
+		499	Helianthostylis,
+		500	Brosimum,
+		501	Dorstenia,
+		502	Malaisia,
+		503	Parartocarpus,
+		504	Paratrophis,
+		505	Morus,
+		506	Artocarpus,
+		507	Maclura,
+		508	Parietaria,
+		509	Debregeasia,
+		510	Boehmeria,
+		511	Pouzolzia,
+		512	Pipturus,
+		513	Nothocnide,
+		514	Cypholophus,
+		515	Phenax,
+		516	Oreocnide,
+		517	Myrianthus,
+		518	Cecropia,
+		519	Pourouma,
+		520	Leucosyke,
+		521	Sarcochlamys,
+		522	Lecanthus,
+		523	Procris,
+		524	Elatostema,
+		525	Myriocarpa,
+		526	Gyrotaenia,
+		527	Touchardia,
+		528	Laportea,
+		529	Poikilospermum,
+		530	Obetia,
+		531	Urtica,
+		532	Hesperocnide,
+		533	Dendrocnide,
+		534	Parasponia,
+		535	Trema,
+		536	Celtis,
+		537	Humulus,
+		538	Cannabis,
+		539	Pteroceltis,
+		540	Lozanella,
+		541	Gironniera,
+		542	Phyllostylon,
+		543	Ampelocera,
+		544	Holoptelea,
+		545	Zelkova,
+		546	Ulmus,
+		547	Dirachma,
+		548	Rubus,
+		549	Alchemilla,
+		550	Potentilla,
+		551	Sanguisorba,
+		552	Acaena,
+		553	Rosa,
+		554	Waldsteinia,
+		555	Geum,
+		556	Chaenomeles,
+		557	Cotoneaster,
+		558	Pyrus,
+		559	Photinia,
+		560	Malus,
+		561	Crataegus,
+		562	Amelanchier,
+		563	Sorbus,
+		564	Sorbaria,
+		565	Prunus,
+		566	Holodiscus,
+		567	Spiraea,
+		568	Physocarpus,
+		569	Neillia,
+		570	Dryas,
+		571	Sechium,
+		572	Cyclanthera,
+		573	Echinopepon,
+		574	Echinocystis,
+		575	Marah,
+		576	Trichosanthes,
+		577	Luffa,
+		578	Lagenaria,
+		579	Cucumis,
+		580	Muellerargia,
+		581	Trochomeria,
+		582	Blastania,
+		583	Zehneria,
+		584	Melothria,
+		585	Scopellaria,
+		586	Cephalopentandra,
+		587	Diplocyclos,
+		588	Citrullus,
+		589	Peponium,
+		590	Coccinia,
+		591	Indomelothria,
+		592	Ceratosanthes,
+		593	Apodanthera,
+		594	Wilbrandia,
+		595	Psiguria,
+		596	Gurania,
+		597	Cucurbitella,
+		598	Kedrostis,
+		599	Eureiandra,
+		600	Tecunumania,
+		601	Sicyos,
+		602	Cayaponia,
+		603	Sicana,
+		604	Calycophysum,
+		605	Polyclathra,
+		606	Cucurbita,
+		607	Bryonia,
+		608	Raphidiocystis,
+		609	Cogniauxia,
+		610	Momordica,
+		611	Thladiantha,
+		612	Alsomitra,
+		613	Gynostemma,
+		614	Neoalsomitra,
+		615	Xerosicyos,
+		616	Gerrardanthus,
+		617	Fevillea,
+		618	Cyclantheropsis,
+		619	Datisca,
+		620	Octomeles,
+		621	Coriaria,
+		622	Corynocarpus,
+		623	Combretocarpus,
+		624	Anisophyllea,
+		625	Monnina,
+		626	Securidaca,
+		627	Salomonia,
+		628	Polygala,
+		629	Carpolobia,
+		630	Xanthophyllum,
+		631	Suriana,
+		632	Stylobasium,
+		633	Guilfoylia,
+		634	Cadellia,
+		635	Quillaja,
+		636	Carya,
+		637	Juglans,
+		638	Pterocarya,
+		639	Myrica,
+		640	Betula,
+		641	Ostrya,
+		642	Carpinus,
+		643	Ostryopsis,
+		644	Ticodendron,
+		645	Casuarina,
+		646	Lithocarpus,
+		647	Quercus,
+		648	Castanea,
+		649	Fagus,
+		650	Nothofagus,
+		651	Dactylaena,
+		652	Cleome,
+		653	Cleomella,
+		654	Cadaba,
+		655	Thilachium,
+		656	Ritchiea,
+		657	Boscia,
+		658	Maerua,
+		659	Neocalyptrocalyx,
+		660	Morisonia,
+		661	Crateva,
+		662	Tovaria,
+		663	Codonocarpus,
+		664	Reseda,
+		665	Sesamoides,
+		666	Forchhammeria,
+		667	Stixis,
+		668	Emblingia,
+		669	Salvadora,
+		670	Limnanthes,
+		671	Setchellanthus,
+		672	Tropaeolum,
+		673	Akania,
+		674	Vasconcellea,
+		675	Jacaratia,
+		676	Carica,
+		677	Cylicomorpha,
+		678	Moringa,
+		679	Thespesia,
+		680	Decaschistia,
+		681	Hibiscus,
+		682	Abelmoschus,
+		683	Pavonia,
+		684	Sida,
+		685	Hoheria,
+		686	Malva,
+		687	Malvastrum,
+		688	Gaya,
+		689	Anoda,
+		690	Abutilon,
+		691	Gossypium,
+		692	Cistus,
+		693	Tuberaria,
+		694	Helianthemum,
+		695	Fumana,
+		696	Lechea,
+		697	Vatica,
+		698	Anisoptera,
+		699	Hopea,
+		700	Shorea,
+		701	Dipterocarpus,
+		702	Monotes,
+		703	Leptolaena,
+		704	Schizolaena,
+		705	Bixa,
+		706	Rhopalocarpus,
+		707	Dialyceras,
+		708	Aquilaria,
+		709	Gyrinops,
+		710	Lachnaea,
+		711	Gnidia,
+		712	Struthiola,
+		713	Pimelea,
+		714	Daphnopsis,
+		715	Ovidia,
+		716	Peddiea,
+		717	Lasiosiphon,
+		718	Daphne,
+		719	Thymelaea,
+		720	Stellera,
+		721	Wikstroemia,
+		722	Rhamnoneuron,
+		723	Lasiadenia,
+		724	Atemnosiphon,
+		725	Phaleria,
+		726	Dicranolepis,
+		727	Synaptolepis,
+		728	Craterosiphon,
+		729	Lophostoma,
+		730	Enkleia,
+		731	Grielum,
+		732	Lovoa,
+		733	Cedrela,
+		734	Toona,
+		735	Neobeguea,
+		736	Xylocarpus,
+		737	Khaya,
+		738	Swietenia,
+		739	Entandrophragma,
+		740	Turraea,
+		741	Lepidotrichilia,
+		742	Malleastrum,
+		743	Trichilia,
+		744	Cipadessa,
+		745	Dysoxylum,
+		746	Cabralea,
+		747	Aphanamixis,
+		748	Aglaia,
+		749	Anthocarapa,
+		750	Heckeldora,
+		751	Guarea,
+		752	Ruagea,
+		753	Lansium,
+		754	Chisocheton,
+		755	Vavaea,
+		756	Ekebergia,
+		757	Walsura,
+		758	Munronia,
+		759	Melia,
+		760	Melicope,
+		761	Comptonella,
+		762	Dutaillyea,
+		763	Acronychia,
+		764	Medicosma,
+		765	Tetractomia,
+		766	Brombya,
+		767	Zieria,
+		768	Neobyrnesia,
+		769	Euodia,
+		770	Diplolaena,
+		771	Phebalium,
+		772	Correa,
+		773	Leionema,
+		774	Asterolasia,
+		775	Myrtopsis,
+		776	Crowea,
+		777	Eriostemon,
+		778	Geijera,
+		779	Pentaceras,
+		780	Bosistoa,
+		781	Vepris,
+		782	Flindersia,
+		783	Tetradium,
+		784	Spiranthera,
+		785	Angostura,
+		786	Erythrochiton,
+		787	Ravenia,
+		788	Raveniopsis,
+		789	Maclurodendron,
+		790	Conchocarpus,
+		791	Hortia,
+		792	Helietta,
+		793	Metrodorea,
+		794	Pilocarpus,
+		795	Acmadenia,
+		796	Adenandra,
+		797	Agathosma,
+		798	Ptelea,
+		799	Dictamnus,
+		800	Skimmia,
+		801	Citrus,
+		802	Atalantia,
+		803	Monanthocitrus,
+		804	Murraya,
+		805	Clausena,
+		806	Glycosmis,
+		807	Haplophyllum,
+		808	Ruta,
+		809	Spathelia,
+		810	Harrisonia,
+		811	Ailanthus,
+		812	Picrasma,
+		813	Gymnostemon,
+		814	Perriera,
+		815	Simarouba,
+		816	Simaba,
+		817	Eurycoma,
+		818	Pierreodendron,
+		819	Quassia,
+		820	Amaroria,
+		821	Soulamea,
+		822	Castela,
+		823	Canarium,
+		824	Dacryodes,
+		825	Trattinnickia,
+		826	Haplolobus,
+		827	Boswellia,
+		828	Bursera,
+		829	Commiphora,
+		830	Protium,
+		831	Mauria,
+		832	Schinus,
+		833	Thyrsodium,
+		834	Schinopsis,
+		835	Myracrodruon,
+		836	Astronium,
+		837	Loxostylis,
+		838	Searsia,
+		839	Smodingium,
+		840	Sorindeia,
+		841	Protorhus,
+		842	Micronychia,
+		843	Abrahamia,
+		844	Heeria,
+		845	Ozoroa,
+		846	Pistacia,
+		847	Metopium,
+		848	Toxicodendron,
+		849	Rhus,
+		850	Mosquitoxylum,
+		851	Semecarpus,
+		852	Trichoscypha,
+		853	Swintonia,
+		854	Mangifera,
+		855	Gluta,
+		856	Bouea,
+		857	Anacardium,
+		858	Buchanania,
+		859	Poupartia,
+		860	Operculicarya,
+		861	Harpephyllum,
+		862	Tapirira,
+		863	Spondias,
+		864	Pegia,
+		865	Dracontomelon,
+		866	Campnosperma,
+		867	Kirkia,
+		868	Glenniea,
+		869	Placodiscus,
+		870	Pancovia,
+		871	Nephelium,
+		872	Talisia,
+		873	Serjania,
+		874	Paullinia,
+		875	Lophostigma,
+		876	Allophylus,
+		877	Thouinia,
+		878	Blighiopsis,
+		879	Arytera,
+		880	Sarcotoechia,
+		881	Mischocarpus,
+		882	Tina,
+		883	Molinaea,
+		884	Cupania,
+		885	Pentascyphus,
+		886	Matayba,
+		887	Sarcopteryx,
+		888	Guioa,
+		889	Lepidopetalum,
+		890	Jagera,
+		891	Podonephelium,
+		892	Lecaniodiscus,
+		893	Elattostachys,
+		894	Plagioscyphus,
+		895	Macphersonia,
+		896	Beguea,
+		897	Camptolepis,
+		898	Zollingeria,
+		899	Deinbollia,
+		900	Atalaya,
+		901	Lepisanthes,
+		902	Thouinidium,
+		903	Toulicia,
+		904	Koelreuteria,
+		905	Dodonaea,
+		906	Harpullia,
+		907	Majidea,
+		908	Magonia,
+		909	Hypelate,
+		910	Ganophyllum,
+		911	Biebersteinia,
+		912	Ackama,
+		913	Spiraeopsis,
+		914	Caldcluvia,
+		915	Acrophyllum,
+		916	Codia,
+		917	Pancheria,
+		918	Cunonia,
+		919	Weinmannia,
+		920	Vesselowskya,
+		921	Karrabina,
+		922	Geissois,
+		923	Lamanonia,
+		924	Gillbeea,
+		925	Eucryphia,
+		926	Platylophus,
+		927	Ceratopetalum,
+		928	Schizomeria,
+		929	Bauera,
+		930	Spiraeanthemum,
+		931	Aristotelia,
+		932	Vallea,
+		933	Dubouzetia,
+		934	Aceratium,
+		935	Sericolea,
+		936	Elaeocarpus,
+		937	Crinodendron,
+		938	Peripentadenia,
+		939	Sloanea,
+		940	Brunellia,
+		941	Cephalotus,
+		942	Agelaea,
+		943	Rourea,
+		944	Cnestis,
+		945	Cnestidium,
+		946	Pseudoconnarus,
+		947	Ellipanthus,
+		948	Connarus,
+		949	Burttia,
+		950	Vismianthus,
+		951	Manotes,
+		952	Sarcotheca,
+		953	Dapania,
+		954	Oxalis,
+		955	Tapiscia,
+		956	Perrottetia,
+		957	Breynia,
+		958	Glochidion,
+		959	Phyllanthus,
+		960	Andrachne,
+		961	Bridelia,
+		962	Cleistanthus,
+		963	Antidesma,
+		964	Baccaurea,
+		965	Choriceras,
+		966	Pseudanthus,
+		967	Neoroepera,
+		968	Acharia,
+		969	Ceratiosicyos,
+		970	Guthriea,
+		971	Kuhlmanniodendron,
+		972	Goupia,
+		973	Salix,
+		974	Populus,
+		975	Lacistema,
+		976	Isodendrion,
+		977	Melicytus,
+		978	Viola,
+		979	Leonia,
+		980	Rinorea,
+		981	Basananthe,
+		982	Deidamia,
+		983	Passiflora,
+		984	Dilkea,
+		985	Adenia,
+		986	Viridivia,
+		987	Ctenolophon,
+		988	Microdesmis,
+		989	Duckesia,
+		990	Drypetes,
+		991	Lophopyxis,
+		992	Bhesa,
+		993	Exellodendron,
+		994	Hunga,
+		995	Acioa,
+		996	Licania,
+		997	Couepia,
+		998	Moquilea,
+		999	Hirtella,
+		1000	Chrysobalanus,
+		1001	Dactyladenia,
+		1002	Grangeria,
+		1003	Parastemon,
+		1004	Maranthes,
+		1005	Magnistipula,
+		1006	Parinari,
+		1007	Neocarya,
+		1008	Kostermanthus,
+		1009	Atuna,
+		1010	Bafodeya,
+		1011	Euphronia,
+		1012	Trigonia,
+		1013	Tapura,
+		1014	Dichapetalum,
+		1015	Balanops,
+		1016	Bruguiera,
+		1017	Ceriops,
+		1018	Kandelia,
+		1019	Rhizophora,
+		1020	Carallia,
+		1021	Pellacalyx,
+		1022	Erythroxylum,
+		1023	Irvingia,
+		1024	Allantospermum,
+		1025	Caryocar,
+		1026	Tetrapterys,
+		1027	Heteropterys,
+		1028	Sphedamnocarpus,
+		1029	Aspicarpa,
+		1030	Gaudichaudia,
+		1031	Janusia,
+		1032	Peixotoa,
+		1033	Stigmaphyllon,
+		1034	Dicella,
+		1035	Hiptage,
+		1036	Microsteira,
+		1037	Triaspis,
+		1038	Caucanthus,
+		1039	Mascagnia,
+		1040	Malpighia,
+		1041	Bunchosia,
+		1042	Amorimia,
+		1043	Hiraea,
+		1044	Burdachia,
+		1045	Tristellateia,
+		1046	Thryallis,
+		1047	Ptilochaeta,
+		1048	Brachylophon,
+		1049	Acridocarpus,
+		1050	Galphimia,
+		1051	Byrsonima,
+		1052	Pterandra,
+		1053	Elatine,
+		1054	Tirpitzia,
+		1055	Linum,
+		1056	Roucheria,
+		1057	Hugonia,
+		1058	Trigonostemon,
+		1059	Beyeria,
+		1060	Fontainea,
+		1061	Tannodia,
+		1062	Tragiella,
+		1063	Jatropha,
+		1064	Croton,
+		1065	Omphalea,
+		1066	Suregada,
+		1067	Manihot,
+		1068	Hevea,
+		1069	Micrandra,
+		1070	Cephalocroton,
+		1071	Chrozophora,
+		1072	Ditaxis,
+		1073	Bocquillonia,
+		1074	Paranecepsia,
+		1075	Acalypha,
+		1076	Macaranga,
+		1077	Tragia,
+		1078	Dalechampia,
+		1079	Plukenetia,
+		1080	Pycnocoma,
+		1081	Claoxylon,
+		1082	Erismanthus,
+		1083	Homalanthus,
+		1084	Sebastiania,
+		1085	Sapium,
+		1086	Clutia,
+		1087	Mammea,
+		1088	Mesua,
+		1089	Calophyllum,
+		1090	Kayea,
+		1091	Kielmeyera,
+		1092	Caraipa,
+		1093	Cratoxylum,
+		1094	Vismia,
+		1095	Harungana,
+		1096	Hypericum,
+		1097	Macropodiella,
+		1098	Ledermanniella,
+		1099	Inversodicraea,
+		1100	Apinagia,
+		1101	Bonnetia,
+		1102	Sauvagesia,
+		1103	Brackenridgea,
+		1104	Wallacea,
+		1105	Godoya,
+		1106	Cespedesia,
+		1107	Blastemanthus,
+		1108	Ochna,
+		1109	Ouratea,
+		1110	Campylospermum,
+		1111	Elvasia,
+		1112	Luxemburgia,
+		1113	Lophira,
+		1114	Ixonanthes,
+		1115	Apodanthes,
+		1116	Pilostyles,
+		1117	Maytenus,
+		1118	Pseudosalacia,
+		1119	Pterocelastrus,
+		1120	Gymnosporia,
+		1121	Putterlickia,
+		1122	Allocassine,
+		1123	Cassine,
+		1124	Catha,
+		1125	Dicarpellum,
+		1126	Elachyptera,
+		1127	Hippocratea,
+		1128	Campylostemon,
+		1129	Loeseneriella,
+		1130	Cheiloclinium,
+		1131	Salacia,
+		1132	Peritassa,
+		1133	Tontelea,
+		1134	Pleurostylia,
+		1135	Elaeodendron,
+		1136	Evonymopsis,
+		1137	Brexia,
+		1138	Salaciopsis,
+		1139	Pristimera,
+		1140	Crossopetalum,
+		1141	Euonymus,
+		1142	Glyptopetalum,
+		1143	Celastrus,
+		1144	Schaefferia,
+		1145	Gyminda,
+		1146	Siphonodon,
+		1147	Quetzalia,
+		1148	Microtropis,
+		1149	Zinowiewia,
+		1150	Mortonia,
+		1151	Parnassia,
+		1152	Ruptiliocarpon,
+		1153	Picramnia,
+		1154	Alvaradoa,
+		1155	Monochaetum,
+		1156	Schwackaea,
+		1157	Pleroma,
+		1158	Tibouchina,
+		1159	Heterocentron,
+		1160	Tristemma,
+		1161	Dichaetanthera,
+		1162	Melastoma,
+		1163	Osbeckia,
+		1164	Pterolepis,
+		1165	Ernestia,
+		1166	Marcetia,
+		1167	Aciotis,
+		1168	Macairea,
+		1169	Acisanthera,
+		1170	Acanthella,
+		1171	Rhynchanthera,
+		1172	Microlicia,
+		1173	Cambessedesia,
+		1174	Huberia,
+		1175	Dissochaeta,
+		1176	Triolena,
+		1177	Barthea,
+		1178	Phyllagathis,
+		1179	Medinilla,
+		1180	Sonerila,
+		1181	Amphiblemma,
+		1182	Calvoa,
+		1183	Gravesia,
+		1184	Poikilogyne,
+		1185	Meriania,
+		1186	Adelobotrys,
+		1187	Graffenrieda,
+		1188	Salpinga,
+		1189	Miconia,
+		1190	Blakea,
+		1191	Astronidium,
+		1192	Beccarianthus,
+		1193	Bellucia,
+		1194	Pternandra,
+		1195	Mouriri,
+		1196	Memecylon,
+		1197	Warneckea,
+		1198	Olinia,
+		1199	Penaea,
+		1200	Alzatea,
+		1201	Axinandra,
+		1202	Darwinia,
+		1203	Thryptomene,
+		1204	Triplarina,
+		1205	Scholtzia,
+		1206	Eucalyptus,
+		1207	Corymbia,
+		1208	Angophora,
+		1209	Melaleuca,
+		1210	Syzygium,
+		1211	Decaspermum,
+		1212	Gossia,
+		1213	Austromyrtus,
+		1214	Eugenia,
+		1215	Siphoneugena,
+		1216	Myrciaria,
+		1217	Myrcia,
+		1218	Archirhodomyrtus,
+		1219	Myrceugenia,
+		1220	Psidium,
+		1221	Campomanesia,
+		1222	Myrtus,
+		1223	Lithomyrtus,
+		1224	Tristania,
+		1225	Xanthomyrtus,
+		1226	Metrosideros,
+		1227	Basisperma,
+		1228	Xanthostemon,
+		1229	Vochysia,
+		1230	Salvertia,
+		1231	Erisma,
+		1232	Qualea,
+		1233	Ruizterania,
+		1234	Callisthene,
+		1235	Combretum,
+		1236	Terminalia,
+		1237	Macropteranthes,
+		1238	Laguncularia,
+		1239	Pemphis,
+		1240	Woodfordia,
+		1241	Pleurophora,
+		1242	Cuphea,
+		1243	Diplusodon,
+		1244	Ammannia,
+		1245	Crenea,
+		1246	Ginoria,
+		1247	Lawsonia,
+		1248	Lythrum,
+		1249	Decodon,
+		1250	Lagerstroemia,
+		1251	Heimia,
+		1252	Taraxia,
+		1253	Camissonia,
+		1254	Gayophytum,
+		1255	Oenothera,
+		1256	Eulobus,
+		1257	Epilobium,
+		1258	Lopezia,
+		1259	Fuchsia,
+		1260	Ludwigia,
+		1261	Zygophyllum,
+		1262	Roepera,
+		1263	Porlieria,
+		1264	Pintoa,
+		1265	Viscainoa,
+		1266	Tribulus,
+		1267	Tribulopis,
+		1268	Krameria,
+		1269	Pelargonium,
+		1270	Geranium,
+		1271	Francoa,
+		1272	Crossosoma,
+		1273	Stachyurus,
+		1274	Staphylea,
+		1275	Guamatela,
+		1276	Strasburgeria,
+		1277	Sedum,
+		1278	Kalanchoe,
+		1279	Crassula,
+		1280	Penthorum,
+		1281	Gonocarpus,
+		1282	Tetracarpaea,
+		1283	Itea,
+		1284	Astilbe,
+		1285	Tanakaea,
+		1286	Rodgersia,
+		1287	Bergenia,
+		1288	Chrysosplenium,
+		1289	Tellima,
+		1290	Mitella,
+		1291	Heuchera,
+		1292	Lithophragma,
+		1293	Saxifraga,
+		1294	Ribes,
+		1295	Exbucklandia,
+		1296	Noahdendron,
+		1297	Ostrearia,
+		1298	Neostrearia,
+		1299	Trichocladus,
+		1300	Sinowilsonia,
+		1301	Parrotia,
+		1302	Distylium,
+		1303	Parrotiopsis,
+		1304	Fothergilla,
+		1305	Corylopsis,
+		1306	Maingaya,
+		1307	Matudaea,
+		1308	Loropetalum,
+		1309	Liquidambar,
+		1310	Cercidiphyllum,
+		1311	Daphniphyllum,
+		1312	Paeonia,
+		1313	Ampelopsis,
+		1314	Vitis,
+		1315	Ampelocissus,
+		1316	Cayratia,
+		1317	Tetrastigma,
+		1318	Cyphostemma,
+		1319	Cissus,
+		1320	Leea,
+		1321	Opilia,
+		1322	Urobotrya,
+		1323	Cansjera,
+		1324	Agonandra,
+		1325	Amylotheca,
+		1326	Lysiana,
+		1327	Tristerix,
+		1328	Notanthera,
+		1329	Struthanthus,
+		1330	Dendropemon,
+		1331	Loranthus,
+		1332	Helixanthera,
+		1333	Scurrula,
+		1334	Taxillus,
+		1335	Oedina,
+		1336	Erianthemum,
+		1337	Oncella,
+		1338	Dendrophthoe,
+		1339	Misodendrum,
+		1340	Gomphrena,
+		1341	Blutaparon,
+		1342	Froelichia,
+		1343	Pfaffia,
+		1344	Tidestromia,
+		1345	Alternanthera,
+		1346	Cyathula,
+		1347	Pandiaka,
+		1348	Nelsia,
+		1349	Achyranthes,
+		1350	Pupalia,
+		1351	Psilotrichum,
+		1352	Centemopsis,
+		1353	Iresine,
+		1354	Amaranthus,
+		1355	Chamissoa,
+		1356	Celosia,
+		1357	Hermbstaedtia,
+		1358	Deeringia,
+		1359	Charpentiera,
+		1360	Achatocarpus,
+		1361	Dianthus,
+		1362	Petrorhagia,
+		1363	Saponaria,
+		1364	Pseudostellaria,
+		1365	Stellaria,
+		1366	Moehringia,
+		1367	Spergularia,
+		1368	Schiedea,
+		1369	Silene,
+		1370	Paronychia,
+		1371	Herniaria,
+		1372	Corrigiola,
+		1373	Petiveria,
+		1374	Monococcus,
+		1375	Rivina,
+		1376	Hilleria,
+		1377	Trichostigma,
+		1378	Seguieria,
+		1379	Commicarpus,
+		1380	Nyctaginia,
+		1381	Acleisanthes,
+		1382	Boerhavia,
+		1383	Allionia,
+		1384	Mirabilis,
+		1385	Abronia,
+		1386	Tripterocalyx,
+		1387	Bougainvillea,
+		1388	Pisonia,
+		1389	Guapira,
+		1390	Neea,
+		1391	Colignonia,
+		1392	Salpianthus,
+		1393	Phytolacca,
+		1394	Ercilla,
+		1395	Agdestis,
+		1396	Gisekia,
+		1397	Zaleya,
+		1398	Tetragonia,
+		1399	Cephalophyllum,
+		1400	Braunsia,
+		1401	Lampranthus,
+		1402	Carpobrotus,
+		1403	Disphyma,
+		1404	Trichodiadema,
+		1405	Gunniopsis,
+		1406	Barbeuia,
+		1407	Lophiocarpus,
+		1408	Chamaecereus,
+		1409	Trichocereus,
+		1410	Acanthocalycium,
+		1411	Oroya,
+		1412	Cleistocactus,
+		1413	Pilosocereus,
+		1414	Cereus,
+		1415	Gymnocalycium,
+		1416	Rebutia,
+		1417	Parodia,
+		1418	Echinocereus,
+		1419	Acanthocereus,
+		1420	Corryocactus,
+		1421	Pfeiffera,
+		1422	Austrocactus,
+		1423	Rhipsalis,
+		1424	Frailea,
+		1425	Copiapoa,
+		1426	Strombocactus,
+		1427	Cumulopuntia,
+		1428	Opuntia,
+		1429	Pereskia,
+		1430	Didierea,
+		1431	Alluaudiopsis,
+		1432	Portulacaria,
+		1433	Anredera,
+		1434	Montia,
+		1435	Claytonia,
+		1436	Calyptridium,
+		1437	Trigastrotheca,
+		1438	Mollugo,
+		1439	Glinus,
+		1440	Limeum,
+		1441	Stegnosperma,
+		1442	Microtea,
+		1443	Simmondsia,
+		1444	Rhabdodendron,
+		1445	Aegialitis,
+		1446	Ceratostigma,
+		1447	Plumbago,
+		1448	Acantholimon,
+		1449	Psylliostachys,
+		1450	Limoniastrum,
+		1451	Reynoutria,
+		1452	Polygonum,
+		1453	Muehlenbeckia,
+		1454	Rumex,
+		1455	Rheum,
+		1456	Bistorta,
+		1457	Persicaria,
+		1458	Gymnopodium,
+		1459	Eriogonum,
+		1460	Ruprechtia,
+		1461	Triplaris,
+		1462	Coccoloba,
+		1463	Dionaea,
+		1464	Nepenthes,
+		1465	Ancistrocladus,
+		1466	Dioncophyllum,
+		1467	Baissea,
+		1468	Forsteronia,
+		1469	Echites,
+		1470	Artia,
+		1471	Parsonsia,
+		1472	Prestonia,
+		1473	Apocynum,
+		1474	Vallaris,
+		1475	Wrightia,
+		1476	Plumeria,
+		1477	Cerbera,
+		1478	Amsonia,
+		1479	Carissa,
+		1480	Gonioma,
+		1481	Melodinus,
+		1482	Alyxia,
+		1483	Voacanga,
+		1484	Tabernaemontana,
+		1485	Spongiosperma,
+		1486	Landolphia,
+		1487	Pacouria,
+		1488	Hancornia,
+		1489	Parahancornia,
+		1490	Kopsia,
+		1491	Rauvolfia,
+		1492	Alstonia,
+		1493	Ochrosia,
+		1494	Strempeliopsis,
+		1495	Aspidosperma,
+		1496	Mitrasacme,
+		1497	Geniostoma,
+		1498	Spigelia,
+		1499	Strychnos,
+		1500	Neuburgia,
+		1501	Swertia,
+		1502	Halenia,
+		1503	Tripterospermum,
+		1504	Macrocarpaea,
+		1505	Chironia,
+		1506	Sebaea,
+		1507	Canscora,
+		1508	Exacum,
+		1509	Gelsemium,
+		1510	Manettia,
+		1511	Spermacoce,
+		1512	Coprosma,
+		1513	Asperula,
+		1514	Paederia,
+		1515	Geophila,
+		1516	Palicourea,
+		1517	Rudgea,
+		1518	Notopleura,
+		1519	Hydnophytum,
+		1520	Psychotria,
+		1521	Coelospermum,
+		1522	Coccocypselum,
+		1523	Cruckshanksia,
+		1524	Lasianthus,
+		1525	Pauridiantha,
+		1526	Ophiorrhiza,
+		1527	Cyclophyllum,
+		1528	Canthium,
+		1529	Psydrax,
+		1530	Vangueria,
+		1531	Rothmannia,
+		1532	Gardenia,
+		1533	Randia,
+		1534	Aidia,
+		1535	Pavetta,
+		1536	Tricalysia,
+		1537	Wendlandia,
+		1538	Ixora,
+		1539	Macrocnemum,
+		1540	Rustia,
+		1541	Elaeagia,
+		1542	Erithalis,
+		1543	Bikkia,
+		1544	Rondeletia,
+		1545	Timonius,
+		1546	Antirhea,
+		1547	Guettarda,
+		1548	Remijia,
+		1549	Cinchona,
+		1550	Nauclea,
+		1551	Uncaria,
+		1552	Neonauclea,
+		1553	Steenisia,
+		1554	Ehretia,
+		1555	Bourreria,
+		1556	Cordia,
+		1557	Varronia,
+		1558	Coldenia,
+		1559	Heliotropium,
+		1560	Lappula,
+		1561	Plagiobothrys,
+		1562	Amsinckia,
+		1563	Cynoglossum,
+		1564	Solenanthus,
+		1565	Paracaryum,
+		1566	Trigonotis,
+		1567	Mertensia,
+		1568	Trichodesma,
+		1569	Borago,
+		1570	Pentaglottis,
+		1571	Anchusa,
+		1572	Pulmonaria,
+		1573	Lithospermum,
+		1574	Cystostemon,
+		1575	Lobostemon,
+		1576	Echium,
+		1577	Arnebia,
+		1578	Alkanna,
+		1579	Nonea,
+		1580	Browallia,
+		1581	Cestrum,
+		1582	Sessea,
+		1583	Petunia,
+		1584	Lycianthes,
+		1585	Capsicum,
+		1586	Cuatresia,
+		1587	Jaltomata,
+		1588	Brachistus,
+		1589	Physalis,
+		1590	Withania,
+		1591	Athenaea,
+		1592	Vassobia,
+		1593	Iochroma,
+		1594	Solanum,
+		1595	Solandra,
+		1596	Hawkesiophyton,
+		1597	Juanulloa,
+		1598	Markea,
+		1599	Atropa,
+		1600	Nolana,
+		1601	Nicotiana,
+		1602	Grammosolen,
+		1603	Cyphanthera,
+		1604	Nierembergia,
+		1605	Brunfelsia,
+		1606	Calibrachoa,
+		1607	Schizanthus,
+		1608	Erycibe,
+		1609	Bonamia,
+		1610	Evolvulus,
+		1611	Dichondra,
+		1612	Porana,
+		1613	Calycobolus,
+		1614	Maripa,
+		1615	Neuropeltis,
+		1616	Jacquemontia,
+		1617	Rapona,
+		1618	Merremia,
+		1619	Operculina,
+		1620	Convolvulus,
+		1621	Calystegia,
+		1622	Lepistemon,
+		1623	Stictocardia,
+		1624	Argyreia,
+		1625	Ipomoea,
+		1626	Astripomoea,
+		1627	Decalobanthus,
+		1628	Hydrolea,
+		1629	Sphenoclea,
+		1630	Grevea,
+		1631	Montinia,
+		1632	Microdon,
+		1633	Chaenostoma,
+		1634	Manulea,
+		1635	Lyperia,
+		1636	Jamesbrittenia,
+		1637	Verbascum,
+		1638	Scrophularia,
+		1639	Buddleja,
+		1640	Gomphostigma,
+		1641	Freylinia,
+		1642	Nemesia,
+		1643	Aptosimum,
+		1644	Lindernia,
+		1645	Vandellia,
+		1646	Torenia,
+		1647	Crepidorhopalon,
+		1648	Sclerochiton,
+		1649	Blepharis,
+		1650	Acanthus,
+		1651	Aphelandra,
+		1652	Stenandrium,
+		1653	Justicia,
+		1654	Anisostachya,
+		1655	Hypoestes,
+		1656	Dicliptera,
+		1657	Rostellularia,
+		1658	Rungia,
+		1659	Schaueria,
+		1660	Ecbolium,
+		1661	Brachystephanus,
+		1662	Isoglossa,
+		1663	Odontonema,
+		1664	Pseuderanthemum,
+		1665	Asystasia,
+		1666	Phialacanthus,
+		1667	Graptophyllum,
+		1668	Strobilanthes,
+		1669	Petalidium,
+		1670	Duosperma,
+		1671	Phaulopsis,
+		1672	Brillantaisia,
+		1673	Hygrophila,
+		1674	Sanchezia,
+		1675	Ruellia,
+		1676	Acanthopale,
+		1677	Eranthemum,
+		1678	Whitfieldia,
+		1679	Andrographis,
+		1680	Gymnostachyum,
+		1681	Lepidagathis,
+		1682	Barleria,
+		1683	Thunbergia,
+		1684	Mendoncia,
+		1685	Staurogyne,
+		1686	Elytraria,
+		1687	Pterodiscus,
+		1688	Sesamum,
+		1689	Thomandersia,
+		1690	Amphitecna,
+		1691	Parmentiera,
+		1692	Phyllarthron,
+		1693	Colea,
+		1694	Stereospermum,
+		1695	Kigelia,
+		1696	Markhamia,
+		1697	Dolichandrone,
+		1698	Catophractes,
+		1699	Radermachera,
+		1700	Adenocalymma,
+		1701	Anemopaegma,
+		1702	Amphilophium,
+		1703	Bignonia,
+		1704	Mansoa,
+		1705	Catalpa,
+		1706	Chilopsis,
+		1707	Pandorea,
+		1708	Incarvillea,
+		1709	Deplanchea,
+		1710	Tecoma,
+		1711	Campsis,
+		1712	Eccremocarpus,
+		1713	Jacaranda,
+		1714	Ibicella,
+		1715	Proboscidea,
+		1716	Martynia,
+		1717	Priva,
+		1718	Lantana,
+		1719	Lippia,
+		1720	Phyla,
+		1721	Verbena,
+		1722	Citharexylum,
+		1723	Stachytarpheta,
+		1724	Duranta,
+		1725	Petrea,
+		1726	Schlegelia,
+		1727	Exarata,
+		1728	Gibsoniothamnus,
+		1729	Pedicularis,
+		1730	Euphrasia,
+		1731	Bartsia,
+		1732	Melampyrum,
+		1733	Buchnera,
+		1734	Rhamphicarpa,
+		1735	Centranthera,
+		1736	Alectra,
+		1737	Lindenbergia,
+		1738	Mazus,
+		1739	Mimulus,
+		1740	Hemichaena,
+		1741	Phryma,
+		1742	Mentha,
+		1743	Pseudocarpidium,
+		1744	Hymenopyramis,
+		1745	Tectona,
+		1746	Pityrodia,
+		1747	Chloanthes,
+		1748	Quoya,
+		1749	Pinguicula,
+		1750	Stilbe,
+		1751	Campylostachys,
+		1752	Retzia,
+		1753	Nuxia,
+		1754	Anastrabe,
+		1755	Bowkeria,
+		1756	Halleria,
+		1757	Charadrophila,
+		1758	Byblis,
+		1759	Veronica,
+		1760	Wulfenia,
+		1761	Digitalis,
+		1762	Littorella,
+		1763	Plantago,
+		1764	Antirrhinum,
+		1765	Linaria,
+		1766	Penstemon,
+		1767	Ourisia,
+		1768	Adenosma,
+		1769	Stemodia,
+		1770	Loxostigma,
+		1771	Lysionotus,
+		1772	Primulina,
+		1773	Oreocharis,
+		1774	Didymocarpus,
+		1775	Cyrtandra,
+		1776	Aeschynanthus,
+		1777	Agalmyla,
+		1778	Henckelia,
+		1779	Paraboea,
+		1780	Boea,
+		1781	Dorcoceras,
+		1782	Ornithoboea,
+		1783	Platystemma,
+		1784	Rhynchotechum,
+		1785	Epithema,
+		1786	Stauranthera,
+		1787	Rhynchoglossum,
+		1788	Chrysothemis,
+		1789	Nautilocalyx,
+		1790	Nematanthus,
+		1791	Codonanthe,
+		1792	Drymonia,
+		1793	Columnea,
+		1794	Glossoloma,
+		1795	Corytoplectus,
+		1796	Episcia,
+		1797	Sinningia,
+		1798	Monopyle,
+		1799	Gloxinia,
+		1800	Pearcea,
+		1801	Kohleria,
+		1802	Achimenes,
+		1803	Solenophora,
+		1804	Diastema,
+		1805	Rhytidophyllum,
+		1806	Gesneria,
+		1807	Gasteranthus,
+		1808	Cremosperma,
+		1809	Besleria,
+		1810	Napeanthus,
+		1811	Calceolaria,
+		1812	Chionanthus,
+		1813	Notelaea,
+		1814	Nestegis,
+		1815	Phillyrea,
+		1816	Osmanthus,
+		1817	Olea,
+		1818	Forestiera,
+		1819	Fraxinus,
+		1820	Ligustrum,
+		1821	Syringa,
+		1822	Jasminum,
+		1823	Silvianthus,
+		1824	Carlemannia,
+		1825	Plocosperma,
+		1826	Vahlia,
+		1827	Pyrenacantha,
+		1828	Ryticaryum,
+		1829	Sleumeria,
+		1830	Merrilliodendron,
+		1831	Mappia,
+		1832	Iodes,
+		1833	Aucuba,
+		1834	Garrya,
+		1835	Eucommia,
+		1836	Phyllonoma,
+		1837	Helwingia,
+		1838	Ilex,
+		1839	Medusanthera,
+		1840	Grisollea,
+		1841	Codiocarpus,
+		1842	Stemonurus,
+		1843	Whitmorea,
+		1844	Irvingbaileya,
+		1845	Gomphandra,
+		1846	Discophora,
+		1847	Cardiopteris,
+		1848	Gonocaryum,
+		1849	Pseudobotrys,
+		1850	Citronella,
+		1851	Moschopsis,
+		1852	Calycera,
+		1853	Gamocarpha,
+		1854	Acicarpha,
+		1855	Coopernookia,
+		1856	Goodenia,
+		1857	Scaevola,
+		1858	Dampiera,
+		1859	Nymphoides,
+		1860	Ornduffia,
+		1861	Menyanthes,
+		1862	Forstera,
+		1863	Stylidium,
+		1864	Platyspermation,
+		1865	Alseuosmia,
+		1866	Wittsteinia,
+		1867	Crispiloba,
+		1868	Argophyllum,
+		1869	Burmeistera,
+		1870	Lobelia,
+		1871	Adenophora,
+		1872	Trachelium,
+		1873	Musschia,
+		1874	Jasione,
+		1875	Codonopsis,
+		1876	Canarina,
+		1877	Carpodetus,
+		1878	Cuttsia,
+		1879	Abrophyllum,
+		1880	Roussea,
+		1881	Pentaphragma,
+		1882	Mackinlaya,
+		1883	Eleutherococcus,
+		1884	Heptapleurum,
+		1885	Hedera,
+		1886	Polyscias,
+		1887	Meryta,
+		1888	Panax,
+		1889	Aralia,
+		1890	Harmsiopanax,
+		1891	Astrotricha,
+		1892	Billardiera,
+		1893	Marianthus,
+		1894	Cheiranthera,
+		1895	Bursaria,
+		1896	Rhytidosporum,
+		1897	Auranticarpa,
+		1898	Pittosporum,
+		1899	Griselinia,
+		1900	Torricellia,
+		1901	Melanophylla,
+		1902	Pennantia,
+		1903	Abelia,
+		1904	Dipelta,
+		1905	Linnaea,
+		1906	Vesalea,
+		1907	Zabelia,
+		1908	Heptacodium,
+		1909	Triosteum,
+		1910	Symphoricarpos,
+		1911	Lonicera,
+		1912	Diervilla,
+		1913	Weigela,
+		1914	Adoxa,
+		1915	Sambucus,
+		1916	Viburnum,
+		1917	Anopterus,
+		1918	Polyosma,
+		1919	Paracryphia,
+		1920	Quintinia,
+		1921	Escallonia,
+		1922	Forgesia,
+		1923	Columellia,
+		1924	Desfontainia,
+		1925	Berzelia,
+		1926	Oncotheca,
+		1927	Metteniusa,
+		1928	Platea,
+		1929	Apodytes,
+		1930	Gaultheria,
+		1931	Psammisia,
+		1932	Macleania,
+		1933	Cavendishia,
+		1934	Thibaudia,
+		1935	Dimorphanthera,
+		1936	Themistoclesia,
+		1937	Vaccinium,
+		1938	Agapetes,
+		1939	Agarista,
+		1940	Pieris,
+		1941	Lyonia,
+		1942	Styphelia,
+		1943	Rhododendron,
+		1944	Elliottia,
+		1945	Bejaria,
+		1946	Arbutus,
+		1947	Cyrilla,
+		1948	Cliftonia,
+		1949	Clethra,
+		1950	Actinidia,
+		1951	Saurauia,
+		1952	Roridula,
+		1953	Sarracenia,
+		1954	Halesia,
+		1955	Pterostyrax,
+		1956	Sinojackia,
+		1957	Bruinsmia,
+		1958	Alniphyllum,
+		1959	Styrax,
+		1960	Berneuxia,
+		1961	Schizocodon,
+		1962	Shortia,
+		1963	Galax,
+		1964	Symplocos,
+		1965	Camellia,
+		1966	Schima,
+		1967	Stewartia,
+		1968	Ternstroemia,
+		1969	Eurya,
+		1970	Freziera,
+		1971	Cleyera,
+		1972	Palaquium,
+		1973	Diploknema,
+		1974	Payena,
+		1975	Isonandra,
+		1976	Manilkara,
+		1977	Labourdonnaisia,
+		1978	Mimusops,
+		1979	Labramia,
+		1980	Capurodendron,
+		1981	Gambeya,
+		1982	Madhuca,
+		1983	Planchonella,
+		1984	Niemeyera,
+		1985	Sersalisia,
+		1986	Chrysophyllum,
+		1987	Pradosia,
+		1988	Micropholis,
+		1989	Ecclinusa,
+		1990	Sarcaulus,
+		1991	Omphalocarpum,
+		1992	Synsepalum,
+		1993	Eberhardtia,
+		1994	Sarcosperma,
+		1995	Soldanella,
+		1996	Primula,
+		1997	Androsace,
+		1998	Cyclamen,
+		1999	Lysimachia,
+		2000	Stimpsonia,
+		2001	Coris,
+		2002	Samolus,
+		2003	Diospyros,
+		2004	Euclea,
+		2005	Cobaea,
+		2006	Gilia,
+		2007	Collomia,
+		2008	Allophyllum,
+		2009	Polemonium,
+		2010	Microsteris,
+		2011	Phlox,
+		2012	Langloisia,
+		2013	Careya,
+		2014	Barringtonia,
+		2015	Foetidia,
+		2016	Petersianthus,
+		2017	Allantoma,
+		2018	Eschweilera,
+		2019	Lecythis,
+		2020	Couroupita,
+		2021	Gustavia,
+		2022	Grias,
+		2023	Asteranthos,
+		2024	Crateranthus,
+		2025	Napoleonaea,
+		2026	Tetramerista,
+		2027	Pentamerista,
+		2028	Pelliciera,
+		2029	Marcgravia,
+		2030	Marcgraviastrum,
+		2031	Norantea,
+		2032	Souroubea,
+		2033	Ruyschia,
+		2034	Schwartzia,
+		2035	Impatiens,
+		2036	Philadelphus,
+		2037	Deutzia,
+		2038	Fendlerella,
+		2039	Hydrangea,
+		2040	Eucnide,
+		2041	Nasa,
+		2042	Caiophora,
+		2043	Loasa,
+		2044	Aosa,
+		2045	Cornus,
+		2046	Davidia,
+		2047	Nyssa,
+		2048	Camptotheca,
+		2049	Curtisia,
+		2050	Grubbia,
+		2051	Aextoxicon,
+		2052	Berberidopsis,
+		2053	Streptothamnus,
+		2054	Curatella,
+		2055	Tetracera,
+		2056	Dillenia,
+		2057	Acrotrema,
+		2058	Gunnera,
+		2059	Trochodendron,
+		2060	Pachysandra,
+		2061	Buxus,
+		2062	Hakea,
+		2063	Grevillea,
+		2064	Alloxylon,
+		2065	Stenocarpus,
+		2066	Lomatia,
+		2067	Carnarvonia,
+		2068	Hicksbeachia,
+		2069	Macadamia,
+		2070	Banksia,
+		2071	Austromuellera,
+		2072	Xylomelum,
+		2073	Lambertia,
+		2074	Triunia,
+		2075	Orites,
+		2076	Protea,
+		2077	Faurea,
+		2078	Leucadendron,
+		2079	Spatalla,
+		2080	Leucospermum,
+		2081	Mimetes,
+		2082	Serruria,
+		2083	Eidothea,
+		2084	Platanus,
+		2085	Nelumbo,
+		2086	Meliosma,
+		2087	Corydalis,
+		2088	Rupicapnos,
+		2089	Sarcocapnos,
+		2090	Ceratocapnos,
+		2091	Dactylicapnos,
+		2092	Dicentra,
+		2093	Hypecoum,
+		2094	Papaver,
+		2095	Argemone,
+		2096	Platystemon,
+		2097	Macleaya,
+		2098	Glaucium,
+		2099	Chelidonium,
+		2100	Coptis,
+		2101	Ranunculus,
+		2102	Anemone,
+		2103	Pulsatilla,
+		2104	Actaea,
+		2105	Clematis,
+		2106	Helleborus,
+		2107	Callianthemum,
+		2108	Adonis,
+		2109	Trollius,
+		2110	Aconitum,
+		2111	Delphinium,
+		2112	Thalictrum,
+		2113	Semiaquilegia,
+		2114	Aquilegia,
+		2115	Dichocarpum,
+		2116	Berberis,
+		2117	Gymnospermium,
+		2118	Leontice,
+		2119	Caulophyllum,
+		2120	Podophyllum,
+		2121	Bongardia,
+		2122	Epimedium,
+		2123	Burasaia,
+		2124	Jateorhiza,
+		2125	Odontocarya,
+		2126	Tinospora,
+		2127	Chasmanthera,
+		2128	Coscinium,
+		2129	Pachygone,
+		2130	Cocculus,
+		2131	Hyperbaena,
+		2132	Albertisia,
+		2133	Tiliacora,
+		2134	Carronia,
+		2135	Pycnarrhena,
+		2136	Sciadotenia,
+		2137	Cissampelos,
+		2138	Cyclea,
+		2139	Stephania,
+		2140	Limacia,
+		2141	Legnephora,
+		2142	Anomospermum,
+		2143	Abuta,
+		2144	Diploclisia,
+		2145	Sinomenium,
+		2146	Menispermum,
+		2147	Sinofranchetia,
+		2148	Boquila,
+		2149	Akebia,
+		2150	Decaisnea,
+		2151	Circaeaster,
+		2152	Euptelea,
+		2153	Kadsura,
+		2154	Schisandra,
+		2155	Illicium,
+		2156	Trimenia,
+		2157	Austrobaileya,
+		2158	Nuphar,
+		2159	Euryale,
+		2160	Nymphaea,
+		2161	Brasenia,
+		2162	Amborella
+	;
+	TREE * UNTITLED = [&R] ((((((((((((((((((1:88.832665,2:88.832665):10.055673,3:98.888338):7.411566,(((4:15.740052,5:15.740052):4.843343,6:20.583394):16.995754,(7:28.97276,((8:15.80264,9:15.802641):0.7798,10:16.582441):12.39032):8.606388):68.720755):6.812337,11:113.112241):2.829542,(((12:51.052496,13:51.052496):4.840604,14:55.8931):18.820997,15:74.714096):41.227687):6.336436,((((((((16:12.846513,(17:10.278061,18:10.278061):2.568452):18.27316,((((19:20.72645,20:20.72645):3.19817,21:23.92462):2.748037,22:26.672658):2.520757,(23:24.330045,24:24.330046):4.863369):1.926259):4.337006,25:35.456679):4.669805,((26:27.861403,(27:18.203405,28:18.203405):9.657999):2.547803,29:30.409207):9.717278):0.876894,30:41.003378):5.351002,(31:16.441546,32:16.441546):29.912834):3.054229,(33:22.653365,34:22.653365):26.755244):32.320215,((35:45.928314,36:45.928314):8.092819,37:54.021132):27.707692):40.549396):2.840093,(((38:19.484858,39:19.484858):42.117172,(40:14.355823,41:14.355823):47.246207):14.819878,(42:40.771982,43:40.771982):35.649926):48.696406):3.64362,((((44:10.403885,(45:9.46056,46:9.46056):0.943325):8.473838,47:18.877723):5.247057,((((48:9.537497,49:9.537497):2.327858,50:11.865355):4.251523,(51:14.2501,52:14.2501):1.866778):2.211125,(53:15.887496,54:15.887496):2.440507):5.796778):5.050013,55:29.174793):99.587139):10.978585,((((((56:13.94384,57:13.94384):4.370698,58:18.314537):51.966138,(59:20.765681,60:20.765681):49.514994):11.978773,(((((61:14.462783,62:14.462783):6.232274,63:20.695057):2.081197,64:22.776254):48.237495,((((((65:16.77142,66:16.77142):3.876771,(67:16.078261,((68:13.434644,69:13.434645):2.002518,(70:9.890988,71:9.890988):5.546175):0.641098):4.569931):1.342597,(72:15.495489,73:15.495489):6.495299):0.820538,74:22.811326):1.594889,((((75:9.896391,76:9.896391):6.335358,(77:13.245361,(78:9.437917,79:9.437917):3.807444):2.986388):0.90035,(80:15.283657,81:15.283657):1.848441):1.070019,(82:11.591466,(83:7.59229,84:7.59229):3.999176):6.610651):6.204097):8.401315,85:32.807529):38.20622):4.335392,(((((((((86:8.911026,87:8.911026):0.673408,88:9.584434):1.379258,89:10.963692):4.471345,90:15.435038):0.31769,91:15.752727):8.292106,92:24.044833):3.881302,93:27.926135):4.786001,94:32.712136):1.510645,(95:27.475323,96:27.475323):6.747458):41.12636):6.910308):37.034793,((((((97:30.408362,(((98:12.2,99:12.2):9.02469,100:21.22469):4.699536,101:25.924226):4.484136):14.128282,(102:40.790308,((103:36.552769,104:36.552769):2.592044,(105:15.240889,106:15.240889):23.903924):1.645494):3.746336):7.860573,107:52.397217):3.25654,((108:40.669971,(((109:20.044648,110:20.044648):12.881013,((111:23.126158,112:23.126157):2.513284,113:25.639441):7.286219):3.541631,114:36.467292):4.202679):1.947234,115:42.617205):13.036552):51.970363,(116:26.464598,117:26.464598):81.159522):4.688837,((((118:10.398189,119:10.398189):25.131386,120:35.529575):49.300024,((121:8.402771,122:8.402771):35.388476,((123:15.714478,124:15.714478):23.895871,125:39.610349):4.180898):41.038352):14.319173,(126:31.870951,127:31.870951):67.277823):13.164184):6.981285):17.827943,((128:33.484883,129:33.484883):13.280982,130:46.765865):90.356321):2.618333):3.176726,(((((131:66.755879,(132:51.591613,(133:30.557701,134:30.5577):21.033912):15.164267):4.203353,(((135:32.713308,((136:17.81455,137:17.81455):5.093932,138:22.908482):9.804826):7.861714,139:40.575021):4.755502,140:45.330523):25.628709):16.398496,(((((((141:61.891951,((142:27.812806,(143:21.979814,144:21.979815):5.832992):20.328143,(((145:24.715702,146:24.715701):5.930038,147:30.645739):6.978666,148:37.624406):10.516543):13.751003):2.665781,(149:51.911032,(((150:24.223926,151:24.223926):9.976446,((152:24.845871,153:24.845871):6.506877,154:31.352748):2.847623):4.101729,(155:19.790334,156:19.790333):18.511766):13.608932):12.646701):1.857849,((((157:26.246381,158:26.246381):0.37704,159:26.623421):3.737347,(160:27.909006,161:27.909005):2.451764):34.334543,162:64.695312):1.720269):1.706324,(((163:31.757876,164:31.757877):15.59086,165:47.348736):13.78824,(166:53.234547,167:53.234547):7.90243):6.984929):2.004747,(((168:26.876618,169:26.876618):14.16975,170:41.046367):23.490888,(171:52.450181,172:52.45018):12.087075):5.589398):1.752703,173:71.879355):11.44183,174:83.321186):4.036543):48.405992,(((175:60.154142,176:60.154142):52.61137,((177:55.185377,178:55.185377):33.408003,(179:34.197494,180:34.197494):54.395886):24.172132):12.267864,(((((((181:62.953154,(((182:19.665513,(183:12.849336,184:12.849336):6.816177):7.208697,185:26.87421):21.276768,186:48.150978):14.802175):17.352461,(((((187:23.434897,188:23.434897):24.151451,(189:21.214923,190:21.214923):26.371426):9.517125,191:57.103473):4.314979,192:61.418453):8.475678,193:69.894131):10.411483):3.480079,((((194:16.605571,195:16.60557):6.547679,(((196:14.245398,197:14.245398):8.341979,(198:19.829333,199:19.829333):2.758044):0.226967,200:22.814343):0.338906):9.255453,201:32.408703):47.081604,(202:71.98523,203:71.985229):7.505077):4.295387):4.029208,(((((((204:24.088531,205:24.088531):0.529915,206:24.618446):3.001203,207:27.619649):7.13891,208:34.758559):19.10721,(209:20.848932,210:20.848932):33.016836):22.760467,((211:28.879179,212:28.879179):6.90234,213:35.781519):40.844717):10.073776,214:86.700012):1.11489):9.067549,(215:87.053303,(((((216:37.52451,217:37.52451):5.766149,218:43.290658):1.840863,219:45.131522):2.89194,220:48.023462):10.457141,(221:26.8978,222:26.8978):31.582803):28.572701):9.829147):15.985449,((((((223:25.583192,224:25.583192):6.739695,((((225:14.882195,226:14.882195):9.708866,((227:20.300002,(228:17.761414,229:17.761414):2.538587):1.854325,230:22.154326):2.436735):2.136905,231:26.727965):4.535994,(232:29.690135,((233:19.093161,234:19.093161):8.770666,(235:25.049311,236:25.049311):2.814515):1.826309):1.573824):1.058926):10.360232,(237:19.464517,238:19.464517):23.218602):5.715958,239:48.399077):19.421771,240:67.820848):12.280253,(((241:30.337701,(242:12.34254,243:12.34254):17.995161):24.816715,(244:43.350688,245:43.350688):11.803727):10.358856,((246:19.659176,247:19.659175):19.053359,248:38.712534):26.800737):14.587829):32.766799):4.473348,((((249:38.891646,250:38.891646):17.065558,251:55.957204):42.972767,252:98.929971):11.743751,253:110.673722):6.667525):7.692129):10.730345):5.017019,(((((((((254:54.772759,((255:15.009759,256:15.009759):34.603373,(257:14.44776,258:14.44776):35.165372):5.159627):12.628921,259:67.40168):2.98192,260:70.383601):3.418707,(261:22.911132,262:22.911132):50.891176):21.862003,263:95.664311):10.097834,((((264:24.689622,265:24.689621):0.776481,266:25.466103):21.671525,267:47.137628):35.231239,(268:24.256818,269:24.256818):58.112049):23.393277):4.382639,270:110.144783):4.747292,((((271:17.533184,272:17.533184):51.416303,273:68.949486):13.318227,(274:59.832555,275:59.832554):22.435158):16.874283,((276:19.351332,277:19.351331):6.151754,278:25.503086):73.63891):15.750079):4.977644,(279:78.305675,280:78.305675):41.564044):20.911021):2.136504):1.157563,281:144.074806):0.389618,((((282:42.608223,283:42.608223):8.23293,284:50.841153):80.463622,(285:95.940438,286:95.940438):35.364337):7.329802,(((((287:24.302996,288:24.302996):27.564912,289:51.867907):43.523862,(((290:56,291:56):8.079861,292:64.079862):8.606808,293:72.686669):22.7051):12.395729,((294:64.697167,(295:42.465639,296:42.46564):22.231528):14.315178,297:79.012345):28.775153):13.989334,(298:34.402514,299:34.402514):87.374318):16.857745):5.829849):3.531848,(((((((((300:12.302716,301:12.302717):3.475592,302:15.778308):20.079423,303:35.857731):3.474038,(304:29.981936,((305:12.593139,306:12.593138):13.072621,307:25.665758):4.316178):9.349834):48.38806,((308:21.529201,309:21.529201):6.259083,310:27.788284):59.931546):22.645934,((311:85.154279,((312:33.094585,313:33.094585):43.556771,314:76.651356):8.502924):6.618506,(315:74.316387,316:74.316387):17.456398):18.592978):14.470353,(((317:73.909768,(((318:15.500324,319:15.500324):19.038265,(320:25.346176,321:25.346176):9.192414):26.245945,(322:26.643076,323:26.643076):34.141459):13.125233):49.090232,(324:91.196385,325:91.196385):31.803614):1.356161,326:124.356162):0.479956):18.830116,((((327:46.445733,328:46.445732):3.099199,((329:12.777578,330:12.777578):11.191306,331:23.968884):25.576046):66.405882,((332:64.210965,333:64.210965):10.615881,(334:65.159903,335:65.159902):9.666944):41.123966):9.194928,((((((336:22.87069,337:22.87069):49.919801,(338:27.511014,339:27.511014):45.279477):17.799959,340:90.59045):4.936992,341:95.527442):17.379225,342:112.906667):6.738588,343:119.645256):5.500486):18.520493):1.213546,(344:77.913922,345:77.913922):66.965857):3.116494):3.702163,((((((((346:53.747065,((((347:18.904942,(((((348:15.527544,((349:15.032803,350:15.032803):0.183688,351:15.216492):0.311053):0.688356,(352:15.694369,353:15.694368):0.521531):1.037996,354:17.253896):0.510267,(355:12.222867,356:12.222867):5.541295):0.305268,(357:17.369387,358:17.369387):0.700044):0.835512):5.883288,(((359:14.898329,360:14.898329):6.059663,361:20.957992):0.517358,((362:17.764411,363:17.764411):1.392943,364:19.157354):2.317996):3.312881):9.298522,365:34.086754):16.868691,(((((366:34.752182,367:34.752182):3.031359,368:37.783542):2.120757,(((369:12.979226,370:12.979226):8.68887,(((371:5.333621,372:5.333622):2.147553,373:7.481175):13.295014,374:20.776189):0.891907):12.860877,((375:26.051283,376:26.051283):1.334342,377:27.385625):7.143348):5.375326):1.343599,378:41.247897):5.319475,(379:25.598471,(380:8.692129,381:8.692129):16.906342):20.968901):4.388072):2.79162):13.613962,382:67.361027):32.696075,383:100.057101):12.942899,(384:98.480066,385:98.480066):14.519934):9.181692,(((((386:16.676667,387:16.676667):3.263582,388:19.940249):3.281316,(((((389:17.253337,390:17.253337):0.952678,391:18.206015):0.562243,392:18.768258):2.98151,393:21.749768):0.440557,394:22.190325):1.031241):1.116319,((395:16.355129,396:16.35513):0.462813,397:16.817943):7.519941):1.383893,(398:16.049394,399:16.049393):9.672384):96.459915):22.10772,(((((((400:31.001515,(401:27.035317,402:27.035317):3.966198):4.058972,403:35.060487):6.769077,404:41.829564):22.457504,405:64.287068):37.746747,406:102.033816):17.700038,(((((((((407:17.236175,(408:15.822326,409:15.822327):1.413849):4.40482,(410:10.999644,411:10.999644):10.641351):0.763155,((((412:13.768545,413:13.768545):0.434107,414:14.202652):2.349725,415:16.552377):5.741384,416:22.293761):0.110389):2.233675,(417:18.000801,418:18.000801):6.637024):0.311911,419:24.949736):45.249359,420:70.199095):24.009476,(421:37.878128,422:37.878128):56.330442):15.117095,((((((423:6.169905,424:6.169904):19.295614,425:25.465518):3.613684,(((426:16.68765,427:16.68765):4.874478,428:21.562128):5.582998,(429:21.669788,430:21.669788):5.475339):1.934077):5.304731,(431:18.463432,432:18.463432):15.920501):3.077214,(433:24.447642,(434:17.9493,435:17.9493):6.498341):13.013506):45.263811,((436:28.814596,437:28.814596):21.322248,438:50.136845):32.588114):26.600707):4.767371,((439:57.689724,440:57.689724):30.533772,(441:52.318151,442:52.318151):35.905346):25.86954):5.640816):10.188089,(443:86.3,444:86.3):43.621942):14.36747):4.37208,((((445:37.722902,(446:29.032661,(447:23.082274,448:23.082274):5.950387):8.690241):16.563446,449:54.286348):70.713652,(((450:16.543763,451:16.543763):7.8873,452:24.431063):9.258526,453:33.689589):91.310411):19.755175,(((454:37.373292,455:37.373293):35.935158,(456:44.3,(457:36.494535,458:36.494535):7.805465):29.008451):50.656289,((459:76.224893,460:76.224893):35.36094,461:111.585833):12.378907):20.790435):3.906316):2.022618,(((462:100.5,463:100.5):9.530733,464:110.030733):12.969267,465:123):27.684109):1.014326):0.391524,((((((((((((((((((((((((((466:29.756166,467:29.756166):0.562932,((468:14.263958,469:14.263958):1.962622,470:16.22658):14.092519):1.327831,471:31.646929):3.239951,(472:31.470605,473:31.470605):3.416275):1.182789,474:36.069669):2.644948,((475:15.501116,476:15.501116):16.766219,477:32.267335):6.447282):11.738812,((478:23.248612,479:23.248612):8.096436,480:31.345048):19.10838):25.220044,((((((481:9.880287,482:9.880287):11.03052,483:20.910808):0.703121,484:21.613928):2.433985,485:24.047913):3.883019,486:27.930932):1.132588,(487:20.527747,488:20.527747):8.535773):46.609952):38.054356,((489:15.145403,490:15.145403):11.78352,491:26.928923):86.798905):4.137379,(((((((((492:14.793754,((493:13.374543,494:13.374543):0.296349,495:13.670892):1.122863):8.279255,496:23.073009):13.555758,497:36.628767):16.499321,((((498:9.334357,499:9.334357):6.80137,500:16.135727):21.797941,501:37.933668):4.214324,502:42.147993):10.980096):4.012394,503:57.140483):4.129576,(((504:16.585609,505:16.585609):30.263872,506:46.849481):8.946372,507:55.795854):5.474205):32.045817,(((508:64.113715,((((509:15.109721,510:15.109721):33.121068,((511:11.494569,(512:6.16461,513:6.16461):5.329958):35.144253,514:46.638821):1.591968):8.105519,515:56.336308):3.286647,516:59.622955):4.490759):7.593977,((517:21.272148,(518:18.171531,519:18.171531):3.100617):36.402478,(520:35.376112,521:35.376112):22.298514):14.033065):10.073589,(((522:60.432666,(523:43.224706,524:43.224706):17.207961):4.611646,(525:14.283215,526:14.283215):50.761098):4.6615,((((527:12.596887,528:12.596887):16.310232,529:28.907119):2.563749,530:31.470868):27.951389,((531:16.198545,532:16.198545):34.286931,533:50.485476):8.936781):10.283556):12.075467):11.534595):6.250476,(((((534:11.221293,535:11.221293):41.78029,(536:47.614264,(537:22.464696,538:22.464696):25.149568):5.387318):1.229426,539:54.231009):8.293417,540:62.524426):5.954006,541:68.478432):31.087919):8.46325,(((542:25.174399,543:25.174399):4.00147,544:29.175869):30.097473,(545:16.49403,546:16.49403):42.779312):48.756259):9.835606):1.565962,547:119.431169):10.636241,((548:53.084761,((((549:34.09588,550:34.09588):4.783288,(551:20.909427,552:20.909427):17.969741):1.108814,553:39.987981):10.642883,(554:14.387395,555:14.387394):36.24347):2.453897):31.54817,(((((((((556:11.199916,557:11.199915):1.432063,(558:10.345748,559:10.345748):2.28623):2.282432,560:14.914411):1.674571,((561:10.14474,562:10.14474):5.195796,563:15.340535):1.248446):37.74004,564:54.32902):2.188539,565:56.51756):3.434435,(566:31.797062,567:31.797063):28.154933):3.19114,(568:18.900413,569:18.900413):44.242722):16.148551,570:79.291686):5.341244):45.43448):11.150169,(((((((((((((571:19.103051,(572:11.543765,573:11.543765):7.559285):0.616544,(574:15.786958,575:15.786958):3.932636):6.296591,576:26.016187):2.520429,577:28.536615):1.306929,((((((((((578:4.946162,579:4.946162):11.64894,580:16.595102):2.547243,(((581:11.630292,582:11.630292):6.426894,(583:13.73789,584:13.73789):4.319296):0.607573,585:18.664759):0.477586):0.432779,586:19.575124):0.301442,(587:18.690755,(588:17.246496,589:17.246496):1.444258):1.18581):0.580724,590:20.457289):0.865665,591:21.322955):5.121206,((((592:8.707141,(593:8.195632,((594:5.748492,595:5.748493):0.029124,596:5.777617):2.418015):0.511509):0.065595,597:8.772735):0.98276,598:9.755495):8.124204,599:17.879699):8.564461):1.414576,(((600:13.446359,(601:6.974338,602:6.974338):6.472021):1.814225,((603:9.090175,604:9.090175):5.928946,605:15.019122):0.241463):1.538418,606:16.799003):11.059734):1.068517,607:28.927253):0.91629):3.788023,(608:19.444261,609:19.44426):14.187307):1.481034,610:35.112601):3.859152,611:38.971753):20.104453,(612:52.421579,(613:43.847439,614:43.847438):8.574141):6.654628):1.943294,((615:48.808371,616:48.80837):5.668609,(617:42.672748,618:42.672748):11.804231):6.542521):49.051874,(619:86.46831,620:86.46831):23.603065):4.161818,(621:88.474808,622:88.474808):25.758385):5.296348,(623:56.958438,624:56.958438):62.571103):21.688039):2.755391,((((((625:46.914202,626:46.914202):1.791578,(627:39.870399,628:39.8704):8.835381):9.720434,629:58.426214):15.598231,630:74.024446):46.932872,(((631:66.05365,(632:39.262073,633:39.262073):26.791576):11.128665,634:77.182315):36.619467,635:113.801782):7.155536):21.429658,(((((636:64.4,(637:41.447829,638:41.447829):22.952171):39.135566,639:103.535565):8.45889,(((640:60.1305,((641:22.204157,642:22.204157):5.674714,643:27.878871):32.251629):23.4695,644:83.6):8.681952,645:92.281952):19.712504):5.102681,(((646:25.890122,647:25.890123):11.909878,648:37.8):40.910652,649:78.710652):38.386485):8.518915,650:125.616052):16.770924):1.585995):2.286864,((((((((((((((((651:35.251508,652:35.251508):16.423312,653:51.674821):18.142435,(((654:27.649571,(((655:8.822374,656:8.822374):6.239529,657:15.061903):2.083953,658:17.145856):10.503715):9.430959,(659:18.452045,660:18.452045):18.628485):13.441498,661:50.522027):19.295229):18.314791,(662:77.901066,(663:71.985817,((664:31.614133,665:31.614133):22.086745,666:53.700878):18.284939):5.91525):10.23098):1.503039,667:89.635086):4.243265,668:93.878351):11.753075,669:105.631427):7.79973,670:113.431157):3.972267,671:117.403423):7.377099,((672:90.4888,673:90.4888):28.962907,((((674:20.483679,675:20.48368):14.816451,676:35.30013):10.320118,677:45.620248):61.155975,678:106.776223):12.675484):5.328815):14.016464,(((((((679:23.011437,(680:17.776152,681:17.776151):5.235286):1.805248,(682:20.948946,683:20.948945):3.86774):12.959762,(((684:14.395084,685:14.395083):12.930732,(686:21.055454,687:21.055454):6.270362):3.149725,(688:17.45442,(689:14.640343,690:14.640343):2.814078):13.02112):7.300907):1.616064,691:39.392511):81.015697,(((((((692:18.637851,693:18.637851):23.380648,694:42.018498):7.903445,695:49.921943):4.978695,696:54.900639):26.524514,((((697:27.413437,698:27.413437):10.626126,((699:21.827845,700:21.827844):11.998253,701:33.826098):4.213465):17.960437,702:56):5.14314,(703:28.323054,704:28.323054):32.820086):20.282012):26.191908,705:107.617061):3.91937,(706:35.036304,707:35.036304):76.500127):8.871777):3.715423,((708:8.100775,709:8.100775):40.476211,((((((((710:14.328039,711:14.328039):7.114119,712:21.442157):8.182343,713:29.624501):2.172571,(714:25.257937,715:25.257937):6.539134):1.442934,716:33.240005):1.418465,717:34.658469):4.318341,(((((718:13.477376,719:13.477376):5.041315,(720:11.160944,721:11.160944):7.357747):9.541901,722:28.060592):3.442899,723:31.503491):6.049159,(724:22.713877,725:22.713877):14.838773):1.424161):3.228008,(726:33.456886,(((727:7.442241,728:7.442241):11.138909,729:18.581151):7.908004,730:26.489155):6.967731):8.747934):6.372167):75.546646):4.879652,731:129.003283):9.793703):3.141006,((((((((732:40.822489,(733:20.059142,734:20.059142):20.763347):6.72747,((735:34.116462,(736:27.346521,(737:26.452693,738:26.452692):0.893829):6.769941):11.029745,739:45.146207):2.403752):21.704553,((((((740:35.682984,((741:26.577594,742:26.577594):7.785159,743:34.362753):1.320231):5.073017,744:40.756):3.98684,((((((745:31.390639,(746:28.565018,(747:25.361607,748:25.361607):3.203411):2.825621):2.611064,749:34.001703):1.872505,((750:29.996278,751:29.996278):3.904801,752:33.901079):1.973129):2.541377,753:38.415585):0.78691,754:39.202494):3.004096,755:42.206591):2.536249):8.316231,(756:49.553112,757:49.553112):3.505958):6.246089,758:59.305159):6.409755,759:65.714913):3.539598):20.658708,(((((((((((((((760:10.056265,(761:9.250616,762:9.250616):0.805649):3.596463,763:13.652727):2.964003,764:16.616731):4.825243,765:21.441973):8.362953,((766:23.354969,(767:21.696682,768:21.696682):1.658287):0.709086,769:24.064056):5.74087):11.86872,(((((((770:19.614221,771:19.614221):1.523237,772:21.137458):2.038986,773:23.176444):0.410269,774:23.586713):2.412299,775:25.999013):1.839748,776:27.838761):1.901608,777:29.740369):11.933278):5.343479,(778:40.714406,(779:36.598817,780:36.598817):4.115589):6.302719):4.260535,781:51.27766):0.360956,782:51.638616):3.636744,783:55.275359):3.445485,((((((784:27.978023,785:27.978023):1.800903,786:29.778926):10.601061,((787:29.93225,788:29.93225):6.873887,789:36.806137):3.57385):2.278334,790:42.658321):9.086927,791:51.745249):2.950323,((((792:34.639207,793:34.639208):10.383249,794:45.022457):7.407265,((795:16.956656,796:16.956655):0.895208,797:17.851863):34.577859):0.704148,798:53.133869):1.561703):4.025273):3.358637,(799:40.212794,800:40.212794):21.866687):5.316476,((((((801:14.737465,802:14.737465):11.204524,803:25.941989):2.699721,804:28.64171):4.025824,(805:31.066586,806:31.066586):1.600947):21.711876,807:54.37941):7.952787,808:62.332197):5.06376):8.098122,809:75.494079):4.183498,810:79.677578):10.235642):2.989293,((((811:35.98276,812:35.98276):14.742899,((((((813:17.591901,814:17.591901):4.754746,(815:20.143644,816:20.143644):2.203004):2.194364,817:24.541012):1.894425,818:26.435437):6.96979,819:33.405227):13.556545,820:46.961772):3.763888):4.07229,821:54.797949):14.460296,822:69.258245):23.644268):17.496503,(((((((823:24.813761,824:24.813761):2.16759,825:26.981351):1.526956,826:28.508307):10.389087,827:38.897393):9.442521,((828:25.442675,829:25.442675):17.241398,830:42.684073):5.655841):43.933926,((((((831:24.107166,832:24.107166):7.623468,((833:29.57388,(834:23.440065,(835:5.923037,836:5.923037):17.517028):6.133815):1.232999,((837:26.483563,(838:23.323495,839:23.323495):3.160068):3.154607,840:29.63817):1.168709):0.923755):0.250049,((841:16.262465,(842:13.922537,843:13.922537):2.339927):1.879609,(844:11.201303,845:11.201303):6.94077):13.83861):5.787881,((846:25.55983,(847:23.721669,848:23.721669):1.838162):0.664702,(849:17.518388,850:17.518388):8.706144):11.544032):9.450092,((851:36.793254,852:36.793254):6.593522,((((853:28.19493,854:28.19493):1.861705,855:30.056636):0.640909,856:30.697545):4.389731,857:35.087276):8.299499):3.83188):31.725403,(((858:57.716029,(((859:9.415481,860:9.415482):9.525961,861:18.941442):7.958587,862:26.900029):30.815999):15.127269,((863:27.399203,864:27.399203):3.654502,865:31.053705):41.789592):3.727937,866:76.571235):2.372825):13.329781):11.788883,867:104.062723):6.336292):4.30857,(((((868:29.301107,(869:25.532338,870:25.532338):3.768769):3.506617,871:32.807725):10.258381,(((872:37.869133,((((873:11.479321,874:11.479321):7.758718,875:19.238039):12.366247,(876:12.93819,877:12.93819):18.666095):5.920252,878:37.524538):0.344595):3.944336,((((((((879:15.390157,880:15.390157):0.029017,881:15.419174):0.040803,((((882:12.079911,883:12.079912):1.618316,884:13.698228):0.662863,885:14.361091):0.648935,886:15.010026):0.449951):0.233938,887:15.693915):1.830019,(888:6.125643,889:6.125643):11.398291):7.492242,890:25.016175):2.314674,((891:1.554701,892:1.554701):21.8923,893:23.447):3.883849):3.779752,(894:20.922102,(895:14.891794,(896:14.653981,897:14.653982):0.237812):6.030307):10.188501):10.702867):0.319748,(898:36.106259,((899:27.815426,900:27.815426):1.260181,(901:25.862554,(902:19.235811,903:19.235811):6.626743):3.213053):7.030652):6.026958):0.932889):13.075903,904:56.142008):15.208475,((((905:22.741191,906:22.741191):9.872125,907:32.613315):16.186713,908:48.800028):6.05026,(909:21.92179,910:21.92179):32.928499):16.500194):43.357104):2.186351,911:116.893937):25.044056):0.727745,((((((((((((912:23.830823,913:23.830823):18.278581,914:42.109403):14.185688,915:56.29509):7.287112,(916:57.34551,(((917:30.046736,918:30.046736):3.053292,919:33.100028):13.236419,920:46.336448):11.009062):6.236693):5.486408,(((921:28.612474,922:28.612474):1.318141,923:29.930615):23.103323,924:53.033939):16.034673):2.126785,925:71.195397):4.387059,((926:32.401745,927:32.401745):31.088255,928:63.49):12.092455):1.635695,929:77.21815):12.111741,930:89.329891):9.69373,(((931:39.350611,932:39.350611):32.17239,(((933:58.626242,(934:46.420132,(935:43.815882,936:43.815882):2.604249):12.20611):6.292504,(937:53.796456,938:53.796456):11.12229):3.485018,939:68.403764):3.119238):18.016834,940:89.539836):9.483786):6.490659,941:105.51428):11.900144,((((((942:27.150591,943:27.150591):3.239641,(944:26.560087,945:26.560087):3.830145):2.716737,946:33.106969):11.216045,((947:28.094689,948:28.094689):5.39285,(949:23.092266,950:23.092266):10.395272):10.835475):28.361815,951:72.684828):9.774995,((952:27.669535,953:27.669535):47.60713,954:75.276665):7.183157):34.954601):25.251314):0.672739,(955:74.526451,956:74.526451):68.812025):1.350187,(((((((((((((957:25.92227,958:25.922271):6.082875,959:32.005146):66.450342,(960:94.795523,(961:26.352881,962:26.35288):68.442642):3.659966):11.101039,(963:68.943186,964:68.943186):40.613342):12.539698,(965:32.262513,(966:23.227678,967:23.227678):9.034836):89.833712):11.855158,((((((((((((968:36.722934,969:36.722934):4.558451,970:41.281385):55.04771,971:96.329096):23.873914,972:120.203009):5.036202,(((973:48.5,974:48.5):59.787854,975:108.287855):14.140802,((((976:44.754177,977:44.754177):14.052184,978:58.80636):3.041955,979:61.848316):14.254608,980:76.102924):46.325732):2.810554):0.973057,((((981:38.756281,982:38.756281):7.151929,(983:39.005709,984:39.005709):6.902501):2.794842,985:48.703052):6.960349,986:55.663402):70.548866):4.307267,(987:126.637131,(988:116.099611,989:116.099611):10.537519):3.882404):0.585988,(990:90.47477,991:90.47477):40.630753):0.876182,992:131.981705):0.308325,(((((((((((993:10.083415,994:10.083415):5.191002,995:15.274417):0.312373,(996:13.669574,(997:10.499516,998:10.499516):3.170057):1.917216):0.660132,999:16.246922):0.085339,1000:16.332261):0.991774,1001:17.324035):1.853555,((1002:17.285796,1003:17.285796):1.276888,1004:18.562684):0.614906):1.102522,(((1005:17.965372,(1006:13.82707,1007:13.827069):4.138303):1.27693,(1008:14.42904,1009:14.42904):4.813262):0.208682,1010:19.450983):0.829129):54.780319,1011:75.06043):21.312602,(1012:79.902952,(1013:31.668243,1014:31.668243):48.234709):16.47008):10.041379,1015:106.414411):25.875618):0.569947,((((1016:31.817394,(1017:23.654025,1018:23.654025):8.163369):2.082606,1019:33.9):13.272989,(1020:34.443504,1021:34.443504):12.729486):59.44253,1022:106.615519):26.244457):0.620247,((1023:53.318736,1024:53.318736):66.458824,1025:119.77756):13.702664):0.47116):0.361475,((((((((((1026:24.446045,1027:24.446045):4.405639,(((1028:21.258498,((1029:12.780902,1030:12.780902):2.24051,1031:15.021412):6.237086):0.494418,1032:21.752916):0.83348,1033:22.586396):6.265289):0.897866,(1034:27.493836,1035:27.493835):2.255714):1.521731,((((((1036:12.002638,1037:12.002637):0.273156,1038:12.275793):3.627763,1039:15.903556):0.863893,(1040:7.829295,1041:7.829295):8.938153):11.052551,1042:27.82):1.779151,1043:29.599151):1.67213):5.407583,1044:36.678864):3.160825,(1045:26.161441,1046:26.161441):13.678249):2.698321,1047:42.538011):9.275948,(1048:31.518233,1049:31.518233):20.295725):13.838099,(1050:61.258897,(1051:34.627561,1052:34.627561):26.631336):4.39316):45.899734,1053:111.551791):22.761067):0.330975,((1054:53.31941,1055:53.31941):21.298062,(1056:34.156058,1057:34.156058):40.461414):60.026362):0.40302,(((((((((1058:59.047501,(1059:34.772886,1060:34.772885):24.274614):6.002971,1061:65.050471):2.069358,1062:67.119829):20.94452,(1063:60.002086,1064:60.002087):28.062262):10.512897,(1065:91.756098,1066:91.756098):6.821147):4.759385,((1067:56.950694,1068:56.950694):13.316604,1069:70.267298):33.069333):7.122128,(((((1070:53.457078,1071:53.457078):25.658494,1072:79.115572):4.458986,(1073:79.406359,((1074:71.227733,1075:71.227732):5.838336,1076:77.066068):2.34029):4.1682):2.036595,(((1077:38.189594,1078:38.189594):3.93496,1079:42.124554):40.51404,(1080:76.126942,1081:76.126941):6.511652):2.972559):20.651709,1082:106.262863):4.195895):0.561092,(1083:77.099978,(1084:64.176451,1085:64.176451):12.923527):33.919873):10.52577,1086:121.54562):13.501233):0.585688,((((((1087:30.228777,(1088:18.840349,1089:18.840349):11.388428):3.49149,1090:33.720267):4.650081,(1091:27.980808,1092:27.980808):10.38954):63.824094,(((1093:46.40627,(1094:11.906564,1095:11.906564):34.499706):10.861957,1096:57.268227):36.361505,(((1097:14.722199,1098:14.722198):4.181633,1099:18.903831):15.536363,1100:34.440194):59.189537):8.564709):9.283654,1101:111.478095):19.330607,((((((1102:25.650494,1103:25.650494):12.009348,1104:37.659843):9.227021,((1105:15.754704,1106:15.754704):23.325336,1107:39.080039):7.806824):5.24249,((1108:17.927078,(1109:16.073825,1110:16.073825):1.853252):7.725287,1111:25.652365):26.476989):3.347973,1112:55.477327):1.596302,1113:57.073628):73.735073):4.82384):0.694126,1114:136.326668):5.50877,(1115:86.612124,1116:86.612123):55.223314):1.137053,(((((((((((((1117:22.104166,1118:22.104166):2.55419,1119:24.658356):13.505359,(((1120:5.763457,1121:5.763457):15.012099,(1122:19.440976,1123:19.440976):1.33458):3.154222,1124:23.929778):14.233937):3.150657,1125:41.314372):4.094391,(((1126:22.897108,(1127:21.259585,(1128:20.06014,1129:20.06014):1.199445):1.637524):18.886902,(((1130:15.144714,1131:15.144714):1.518455,1132:16.663169):1.05613,1133:17.719299):24.064711):2.056912,((1134:31.916727,(1135:28.773294,1136:28.773294):3.143434):5.400379,1137:37.317107):6.523815):1.567841):0.131103,1138:45.539866):3.745816,1139:49.285683):2.277646,1140:51.563328):0.958103,(((1141:19.034825,1142:19.034826):18.508227,1143:37.543054):5.281008,(1144:34.343349,1145:34.343349):8.480713):9.697369):1.342628,1146:53.86406):23.975756,(((1147:23.392819,1148:23.392819):15.116212,1149:38.509032):36.142203,1150:74.651234):3.188581):9.92593,1151:87.765746):21.600725,1152:109.36647):33.606021):1.716173):0.858861,(1153:46.631834,1154:46.631834):98.915691):0.71231):0.384481,((((((((((((((1155:18.01265,1156:18.01265):1.112602,(1157:17.549582,(1158:6.449064,1159:6.449064):11.100519):1.57567):2.770526,((1160:18.911792,(1161:17.773473,(1162:10.574093,1163:10.574093):7.199379):1.138319):2.569867,1164:21.481658):0.414119):11.759852,(((((1165:15.470592,(1166:12.861022,1167:12.861021):2.60957):3.259282,1168:18.729874):0.944321,1169:19.674195):3.948823,1170:23.623018):8.604256,(1171:16.361166,1172:16.361166):15.866109):1.428355):4.488845,((1173:23.593484,1174:23.593485):11.558768,1175:35.152252):2.992222):1.544752,1176:39.689227):1.402908,((((((1177:19.462294,1178:19.462294):1.132059,1179:20.594352):1.393043,1180:21.987395):1.444429,((1181:19.754516,1182:19.754516):1.127922,1183:20.882438):2.549386):0.630071,1184:24.061895):15.781498,(((((1185:11.487977,1186:11.487977):9.028507,1187:20.516484):6.239941,1188:26.756425):6.221393,1189:32.977818):4.927972,1190:37.905791):1.937602):1.248743):2.53554,((1191:12.742362,1192:12.742362):16.455778,1193:29.19814):14.429534):22.175795,(1194:53.110024,(1195:21.601099,(1196:3.305871,1197:3.305871):18.295227):31.508926):12.693445):23.729931,(((1198:31.719068,1199:31.719068):6.950259,1200:38.669326):20.619239,1201:59.288565):30.244835):24.430085,((((((((1202:21.954855,1203:21.954853):1.615565,1204:23.570419):1.84647,1205:25.41689):20.324917,(1206:32.053073,(1207:9.506074,1208:9.506074):22.547):13.688732):1.430646,1209:47.172452):1.001717,(1210:45.580286,(((((1211:27.974935,1212:27.974935):0.30074,1213:28.275674):2.808361,(((((1214:20.537299,((1215:13.54112,1216:13.541121):5.468355,(1217:17.143045,1218:17.143045):1.866431):1.527823):0.236385,1219:20.773684):0.033549,1220:20.807233):0.390324,1221:21.197556):7.537702,1222:28.735259):2.348777):3.133714,1223:34.21775):9.131518,(((1224:35.796141,1225:35.796143):3.574283,1226:39.370425):2.448649,1227:41.819075):1.530195):2.231018):2.593882):7.825832,1228:56):39.099439,(((1229:17.058233,1230:17.058234):14.908807,1231:31.967041):2.164796,((1232:17.612479,1233:17.612479):8.499966,1234:26.112445):8.019392):60.967601):18.864047):8.854767,((1235:31.025639,1236:31.025638):5.569473,(1237:32.087248,1238:32.087247):4.507865):86.22314):4.606416,(((1239:56.806038,((1240:37.138143,(1241:29.952778,1242:29.952778):7.185364):16.835065,1243:53.973208):2.832831):15.293961,((((((1244:20.839691,1245:20.839691):16.694013,1246:37.533704):7.726502,1247:45.260205):12.75036,(1248:49.736533,1249:49.736533):8.274032):2.422669,1250:60.433234):7.369808,1251:67.803042):4.296958):37.264943,((((((1252:22.627687,(1253:20.250982,1254:20.250981):2.376705):1.751347,(1255:9.043231,1256:9.043231):15.335803):5.873885,1257:30.252918):16.272742,1258:46.52566):6.89203,1259:53.417691):29.118411,1260:82.536101):26.828842):18.059725):15.182462,((((1261:42.054826,1262:42.054826):28.430271,(1263:34.321111,1264:34.321112):36.163985):22.122683,(1265:62.494398,(1266:13.272383,1267:13.272383):49.222015):30.113382):18.513527,1268:111.121307):31.485824):4.037186):0.143372,(((1269:62.854554,1270:62.854554):66.596474,1271:129.451028):11.936115,((((1272:45.638996,1273:45.638996):8.849855,1274:54.488851):2.272649,1275:56.7615):48.844176,1276:105.605676):35.781468):5.400544):1.216444,(((((1277:59.157896,1278:59.157896):17.019608,1279:76.177505):39.818846,((1280:72.1,1281:72.100001):20.82433,1282:92.92433):23.07202):17.836072,(1283:109.126566,(((((1284:46.549991,1285:46.549992):11.16496,((1286:42.998578,1287:42.998578):9.774574,1288:52.773152):4.941799):5.275639,(((1289:7.053735,1290:7.053735):2.713766,1291:9.767502):4.200175,1292:13.967677):49.022913):17.027282,1293:80.017872):18.866956,1294:98.884828):10.241738):24.705856):4.961069,((((1295:83.6,((((((1296:15.306841,1297:15.306841):3.602611,1298:18.909452):5.728129,1299:24.637581):2.152734,1300:26.790315):4.149929,((1301:14.927423,1302:14.927423):3.710904,(1303:15.86335,1304:15.86335):2.774976):12.301918):13.60685,(1305:31.575603,((1306:22.228695,1307:22.228695):2.331601,1308:24.560297):7.015306):12.971491):39.052906):11.68246,(1309:86.158035,1310:86.158035):9.124425):5.846235,1311:101.128695):15.407286,1312:116.53598):22.257511):9.21064):0.16761,((((1313:34.047872,(1314:23.65233,1315:23.65233):10.395542):16.906528,((1316:37.206178,1317:37.206177):1.81873,1318:39.024908):11.929493):5.124187,1319:56.078588):21.805197,1320:77.883785):70.287957):0.211447,((((1321:2.839743,1322:2.839743):20.406454,1323:23.246197):5.270359,1324:28.516557):76.366025,((((1325:9.122511,1326:9.122511):20.516571,((1327:25.437343,1328:25.437343):2.747447,(1329:19.060182,1330:19.060182):9.124609):1.454291):4.352625,(1331:27.804308,(1332:21.009863,((1333:10.269449,1334:10.269449):10.013366,(((1335:10.150772,1336:10.150772):1.139942,1337:11.290715):8.467518,1338:19.758232):0.524582):0.727048):6.794445):6.187399):57.570193,1339:91.5619):13.320681):43.500608):0.130308,((((((((((((((((1340:8.126514,1341:8.126514):19.896465,1342:28.022979):6.674614,1343:34.697593):3.343817,1344:38.04141):2.229848,1345:40.271258):3.187959,((((1346:15.169224,1347:15.169224):4.935349,1348:20.104573):2.711024,1349:22.815596):12.862521,((1350:27.011048,1351:27.011048):5.590647,1352:32.601694):3.076424):7.781099):3.029541,1353:46.488758):19.602224,(((1354:37.866901,1355:37.866901):11.129313,((1356:32.615387,1357:32.615387):10.836289,1358:43.451677):5.544537):11.157574,1359:60.153788):5.937194):25.608257,1360:91.699239):7.084885,((((((1361:15.022607,1362:15.022607):21.957066,1363:36.979672):16.504304,((1364:33.081082,1365:33.081082):17.967195,(1366:48.986194,(1367:24.60349,1368:24.60349):24.382703):2.062083):2.4357):1.75811,1369:55.242087):28.231734,(1370:70.282291,1371:70.282291):13.191529):4.689463,1372:88.163283):10.620841):7.468618,(((((((((((1373:24.286026,1374:24.286026):37.434332,((1375:21.447998,1376:21.447998):7.165709,1377:28.613707):33.106652):12.165808,1378:73.886167):14.703685,((((((((1379:29.14355,((1380:0.022543,1381:0.022543):17.283602,1382:17.306145):11.837405):1.121233,1383:30.264783):1.485059,1384:31.749841):1.78698,(1385:24.564132,1386:24.564132):8.972689):22.413349,1387:55.950169):4.436736,(1388:16.959701,(1389:10.205177,1390:10.205177):6.754524):43.427205):4.434695,1391:64.8216):5.440646,1392:70.262246):18.327606):3.886494,((1393:74.642455,1394:74.642455):16.398518,1395:91.040973):1.435373):2.110161,1396:94.586507):3.721329,((1397:61.022724,1398:61.022724):28.803741,(((((1399:10.249943,1400:10.249943):1.777783,1401:12.027724):0.605051,(1402:8.409765,1403:8.409765):4.22301):6.860289,1404:19.493067):56.247688,1405:75.740755):14.085711):8.48137):1.721127,1406:100.028962):1.621831,1407:101.650793):1.868056,((((((((((((((((1408:3.510288,1409:3.510288):1.35342,1410:4.863709):1.659161,(1411:6.298029,1412:6.298029):0.224841):3.321798,((1413:8.362539,1414:8.362539):1.195385,1415:9.557925):0.286743):0.101618,1416:9.946286):5.134901,1417:15.081189):1.36502,((((1418:10.365057,1419:10.365057):2.576808,1420:12.941864):1.590826,1421:14.53269):0.400123,1422:14.932813):1.513395):0.562788,(1423:16.17956,1424:16.179559):0.829437):0.19236,1425:17.201356):0.947696,1426:18.149051):10.089738,(1427:13.353849,1428:13.353849):14.884939):1.917995,1429:30.156783):36.303271,((1430:16.25462,1431:16.25462):42.753378,1432:59.007997):7.452057):3.461801,1433:69.921856):4.220902,((1434:25.680443,1435:25.680443):17.866618,1436:43.547061):30.595697):24.311068,((1437:1.536027,1438:1.536027):79.341909,1439:80.877937):17.575889):5.065024):1.587901,1440:105.106751):1.145991):1.410301,1441:107.663043):2.192437,1442:109.85548):12.446804,1443:122.302284):3.531497,1444:125.833781):3.802941,((((1445:50.168973,(1446:26.7113,1447:26.7113):23.457673):18.385243,(1448:41.818063,(1449:39.037366,1450:39.037366):2.780696):26.736154):32.615524,(((((1451:8.812681,1452:8.812681):6.913407,1453:15.726088):22.698317,(1454:31.653061,1455:31.653062):6.771344):17.147492,(1456:47.82764,1457:47.82764):7.744258):12.12704,(((1458:36.802451,1459:36.802451):6.200834,(1460:11.539348,1461:11.539348):31.463938):3.6579,1462:46.661185):21.037752):33.470803):23.758234,(1463:105.800149,(1464:95.138784,(1465:40.101175,1466:40.101175):55.037609):10.661365):19.127826):4.708748):18.876775):0.095614,((((((((((((((((((1467:41.397909,((1468:35.423521,(1469:17.991193,((1470:9.101505,1471:9.101505):5.262576,1472:14.364081):3.627112):17.432328):2.02041,(1473:31.702654,1474:31.702654):5.741277):3.953978):6.113341,1475:47.511251):8.086053,(1476:50.909775,1477:50.909775):4.687528):1.002819,(1478:52.862612,((1479:45.178226,1480:45.178227):2.098355,1481:47.276581):5.586031):3.73751):1.365379,1482:57.965502):1.227903,(((((1483:23.592941,1484:23.592941):10.708247,1485:34.301188):21.291437,((1486:22.272402,1487:22.272403):11.523647,(1488:26.747673,1489:26.747673):7.048377):21.796575):1.141966,1490:56.734591):0.421485,(1491:47.889547,(1492:33.028293,1493:33.028294):14.861253):9.266529):2.037329):19.881727,(1494:53.794301,1495:53.794301):25.280831):24.626253,(((1496:45.795786,1497:45.795787):18.395866,1498:64.191653):7.335237,(1499:62.412642,1500:62.412642):9.114247):32.174496):4.088029,((((((1501:10.893704,1502:10.893704):34.327688,1503:45.221393):8.855208,1504:54.076601):9.73774,((1505:39.556539,1506:39.556539):15.474947,1507:55.031485):8.782856):11.213494,1508:75.027834):24.814778,1509:99.842612):7.946801):9.893378,((((((1510:40.80748,1511:40.807479):17.74261,(1512:54.497224,(1513:51.167155,1514:51.167153):3.33007):4.052866):6.108267,((((1515:27.670827,(1516:26.650764,(1517:23.109593,1518:23.109593):3.541171):1.020062):3.979323,(1519:19.57597,1520:19.57597):12.074179):8.020247,1521:39.670398):21.369178,(1522:37.091984,1523:37.091984):23.947591):3.618782):8.530055,1524:73.188412):1.734087,(1525:62.776144,1526:62.776143):12.146355):22.009231,(((((((1527:13.24573,1528:13.245731):4.74847,1529:17.994201):2.285976,1530:20.280177):31.628188,(((((1531:25.926348,(1532:25.273988,(1533:15.579808,1534:15.579808):9.694179):0.65236):1.440295,1535:27.366643):2.344968,1536:29.711612):3.742173,1537:33.453783):10.126061,1538:43.579844):8.328519):17.418305,((1539:29.391157,1540:29.391157):4.851855,1541:34.243012):35.083659):8.073287,((((1542:17.047866,1543:17.047866):46.823869,(1544:50.644225,((1545:13.384933,1546:13.384933):4.55556,1547:17.940493):32.703731):13.227512):4.726437,(1548:28.767749,1549:28.767748):39.830425):3.275556,((1550:27.497937,1551:27.497937):9.987808,1552:37.485745):34.387983):5.52623):1.96161,1553:79.361568):17.570163):20.75106):17.386889,((((1554:52.418165,1555:52.418166):22.289452,((1556:39.281605,1557:39.281605):20.764871,1558:60.046476):14.661141):2.506794,1559:77.21441):22.507313,((((1560:29.895766,((((1561:12.952214,1562:12.952214):6.763675,1563:19.71589):1.976216,(1564:6.514248,1565:6.514248):15.177858):5.827109,1566:27.519214):2.376552):2.417774,1567:32.313541):5.200361,1568:37.513902):6.599244,((((1569:20.410821,1570:20.410821):4.718053,1571:25.128874):5.910736,1572:31.03961):9.455736,((1573:28.893861,((1574:18.773789,(1575:12.499689,1576:12.499689):6.2741):8.320045,1577:27.093834):1.800027):1.145782,(1578:12.105996,1579:12.105996):17.933647):10.455702):3.617801):55.608578):35.347956):2.395263,((((((1580:48.973681,(1581:11.64815,1582:11.64815):37.325531):11.897834,1583:60.871514):3.724363,((((((((1584:30.554061,(1585:25.907356,1586:25.907355):4.646705):5.097748,1587:35.651808):2.382115,((((1588:22.97006,1589:22.970061):2.895682,1590:25.865742):2.631694,1591:28.497436):2.42375,(1592:14.669947,1593:14.669946):16.25124):7.112738):1.449655,1594:39.483579):6.158544,(1595:24.760086,(1596:19.962842,(1597:18.388814,1598:18.388814):1.574027):4.797244):20.882037):6.577876,(1599:40.798722,1600:40.798723):11.421278):6.996112,(1601:47.819366,(1602:32.510624,1603:32.510624):15.308742):11.396745):4.080092,((1604:48.679713,1605:48.679712):3.479244,1606:52.158956):11.137248):1.299674):17.392252,1607:81.988129):32.975652,(1608:49.315122,(((((1609:38.386388,1610:38.386387):4.306671,(((1611:29.178789,1612:29.178789):6.449476,1613:35.628265):5.663507,(1614:36.204177,1615:36.204177):5.087595):1.401286):0.502666,1616:43.195723):0.477892,1617:43.673615):3.58991,(((1618:16.084854,1619:16.084854):11.684582,(1620:10.387641,1621:10.387641):17.381795):1.783675,((((1622:13.515552,1623:13.515552):0.656996,1624:14.172548):4.366062,(1625:16.833646,1626:16.833647):1.704963):6.365139,1627:24.90375):4.649362):17.710412):2.051597):65.648659):15.896347,((1628:105.977129,1629:105.97713):16.463686,(1630:40.434942,1631:40.434942):82.005874):8.419312):6.604815):1.302313,((((((((((((((1632:37.617199,(1633:31.371165,1634:31.371165):6.246035):11.864607,1635:49.481806):4.84206,1636:54.323866):3.31514,(1637:41.483466,1638:41.483465):16.15554):8.909489,((1639:20.328376,1640:20.328376):30.893797,1641:51.222172):15.326322):23.833187,1642:90.381682):8.87242,1643:99.254102):13.947726,((1644:47.335109,(1645:14.045291,1646:14.045291):33.289818):15.90991,1647:63.245019):49.956809):2.246964,(((((((((1648:34.259016,(1649:25.939809,1650:25.939808):8.319207):11.268888,(1651:29.427465,1652:29.427464):16.10044):40.743862,(((((((((1653:25.080145,1654:25.080146):1.469903,((1655:11.841357,1656:11.841358):9.347728,1657:21.189085):5.360963):4.757427,1658:31.307476):4.112134,(1659:14.985592,1660:14.985592):20.434017):1.63213,(1661:16.710287,1662:16.710287):20.341451):4.139283,(((1663:15.497337,1664:15.497337):22.358999,1665:37.856336):1.684121,1666:39.540457):1.650565):4.634785,1667:45.825806):22.983391,((((1668:30.923854,(((1669:13.980879,1670:13.980879):8.357439,1671:22.338317):7.96297,(1672:17.188247,1673:17.188247):13.113042):0.622564):1.313547,1674:32.2374):1.797713,(1675:24.971814,1676:24.971813):9.063301):10.68257,1677:44.717684):24.091512):6.730699,(1678:64.091748,((1679:35.868612,1680:35.868611):21.838597,(1681:39.663651,1682:39.663651):18.043558):6.38454):11.448148):10.73187):9.527793,(1683:65.450445,1684:65.450446):30.349114):6.376156,(1685:83.636706,1686:83.636705):18.539009):7.328896,(1687:51.199261,1688:51.199261):58.30535):1.334023,1689:110.838633):1.74338,(((((((((((1690:25.781809,1691:25.781809):34.978054,(((((1692:20.841088,1693:20.841088):18.608196,((1694:22.011483,1695:22.011483):15.225886,1696:37.237369):2.211915):3.977759,1697:43.427043):2.555428,1698:45.982471):2.011799,1699:47.99427):12.765594):5.685666,((1700:47.248104,((1701:30.834499,1702:30.834499):2.127556,(1703:29.745691,1704:29.745691):3.216364):14.286049):16.834935,(1705:38.4,1706:38.4):25.683039):2.362491):9.359246,((((1707:43.631064,1708:43.631064):0.575294,1709:44.206358):10.28724,1710:54.493598):5.059737,1711:59.553335):16.25144):5.832411,1712:81.637187):17.965847,1713:99.603033):6.060546,(1714:24.664698,(1715:13.489522,1716:13.489522):11.175177):80.99888):1.803486,((((1717:56.17077,(((1718:12.469961,1719:12.469961):6.638472,1720:19.108434):23.011246,1721:42.119681):14.05109):10.290036,1722:66.460806):5.49584,(1723:58.51567,1724:58.51567):13.440976):10.221506,1725:82.178152):25.288913):1.8187,((1726:44.99751,1727:44.997511):10.336107,1728:55.333618):53.952148):2.662258,(((((1729:66.196791,((1730:31.902283,1731:31.902283):8.840473,1732:40.742756):25.454035):7.665989,((1733:35.793091,1734:35.793092):6.151667,(1735:22.489211,1736:22.489212):19.455548):31.918021):10.841657,1737:84.704437):24.503377,(1738:102.636515,(1739:91.606801,(1740:74.981384,1741:74.981384):16.625416):11.029714):6.5713):1.09561,((1742:94.336058,((1743:85.06565,1744:85.065649):3.948285,1745:89.013934):5.322123):2.48396,((1746:27.960258,1747:27.960258):5.540875,1748:33.501133):63.318884):13.483408):1.644598):0.438408,1749:112.386431):0.195583):2.256674,(((((((1750:15.284324,1751:15.284324):0.085872,1752:15.370196):23.204763,1753:38.574959):3.389834,(1754:19.071058,1755:19.071058):22.893735):14.740319,1756:56.705112):12.687449,1757:69.392561):38.905153,1758:108.297714):6.540973):0.610104):2.268358,((((((1759:44.976685,1760:44.976684):21.500359,1761:66.477043):5.029904,(1762:40.798281,1763:40.798281):30.708665):27.234798,((1764:47.362887,1765:47.362887):46.732139,1766:94.095025):4.646719):12.243527,1767:110.985273):2.857978,(1768:57.804642,1769:57.804642):56.038609):3.873899):2.134112,((((((((((((1770:19.199568,1771:19.199568):1.997272,1772:21.19684):1.807478,1773:23.004319):0.920501,(1774:23.198705,1775:23.198705):0.726114):1.399364,1776:25.324184):1.135882,1777:26.460066):2.813002,1778:29.273068):2.874054,(1779:28.908558,(1780:25.778443,(1781:23.176593,1782:23.176593):2.60185):3.130115):3.238564):6.237172,(1783:18.852799,1784:18.852799):19.531494):43.532717,((1785:56.009954,1786:56.009954):11.580927,1787:67.590882):14.326129):7.292164,((((((1788:11.879037,1789:11.879038):12.419994,(((1790:13.605574,1791:13.605574):5.540951,(((1792:13.299513,1793:13.299512):0.102728,1794:13.40224):1.869524,1795:15.271764):3.874761):1.650915,1796:20.79744):3.50159):7.086368,1797:31.385399):2.491436,((((1798:19.321133,(1799:18.982758,(1800:11.75778,1801:11.75778):7.224978):0.338376):2.522616,(1802:19.202416,1803:19.202416):2.641333):0.653064,1804:22.496814):4.340616,(1805:12.065541,1806:12.06554):14.771889):7.039405):27.853716,((1807:25.6899,1808:25.6899):1.878066,1809:27.567967):34.162584):7.267617,1810:68.998168):20.211007):13.702109,1811:102.911285):16.939977):8.070576,(((((((1812:17.584079,((1813:6.918801,1814:6.918801):7.907491,(1815:13.224,1816:13.224):1.602292):2.757787):3.734632,1817:21.318711):1.363461,1818:22.682172):5.52693,1819:28.209102):4.624079,(1820:15.878528,1821:15.878528):16.954653):17.455108,1822:50.288289):33.725475,(1823:44.61379,1824:44.61379):39.399974):43.908073):3.191818,1825:131.113656):5.734351,1826:136.848007):1.919248):4.906157,((((1827:48.170432,1828:48.170432):26.563633,1829:74.734065):8.40937,((1830:68.302487,1831:68.302487):9.074207,1832:77.376694):5.766742):57.72378,(((1833:33.084028,1834:33.084028):59.629061,1835:92.713089):39.922012,((1836:72.691277,1837:72.691277):15.545745,1838:88.237022):44.398078):8.232115):2.806197):0.733935,((((1839:25.107727,(1840:20.535006,1841:20.535006):4.572721):2.64655,((1842:17.13881,1843:17.13881):9.705894,(1844:24.92909,1845:24.929089):1.915615):0.909573):3.149317,1846:30.903594):86.248441,((1847:83.904068,1848:83.904068):10.000432,(1849:24.905199,1850:24.9052):68.9993):23.247535):27.255312):0.507856,((((((((((((1851:13.465272,1852:13.465272):7.03138,1853:20.496653):17.338768,1854:37.83542):78.77707,(((1855:38.094539,1856:38.094539):13.101625,1857:51.196164):48.286952,1858:99.483116):17.129373):9.006503,((1859:25.943745,1860:25.943745):57.278476,1861:83.222221):42.396772):3.631957,((1862:73.361954,1863:73.361953):52.180372,((1864:42.967192,((1865:25.682618,1866:25.682618):13.331361,1867:39.013979):3.953213):66.131393,1868:109.098585):16.44374):3.708625):2.020872,((1869:21.428936,1870:21.428936):66.054936,((((1871:44.113364,1872:44.113363):4.017262,1873:48.130626):2.105779,1874:50.236404):25.909087,(1875:39.057118,1876:39.057118):37.088373):11.338381):43.78795):1.074621,((1877:62.500617,(1878:16.804996,1879:16.804996):45.695621):29.639827,1880:92.140444):40.205999):2.010478,1881:134.356921):6.485676,((((((1882:89.550262,((((1883:30.01744,1884:30.017439):1.205237,1885:31.222676):10.495535,((1886:32.222961,1887:32.222961):8.461324,(1888:24.320897,1889:24.320897):16.363388):1.033926):8.714132,(1890:46.227607,1891:46.227606):4.204737):39.117919):3.106774,(((1892:11.01339,1893:11.01339):2.02327,1894:13.036659):12.985114,(((1895:13.95448,1896:13.95448):3.936983,1897:17.891464):1.961915,1898:19.853379):6.168393):66.635263):8.670724,1899:101.32776):6.627662,(1900:32.597086,1901:32.597086):75.358336):21.801829,1902:129.757251):8.684316,(((((((((1903:24.81873,1904:24.81873):9.251269,(1905:23.667214,1906:23.667214):10.402786):32.229688,1907:66.299687):17.916736,(1908:65.942063,(1909:28.133518,(1910:27.095851,1911:27.095851):1.037667):37.808544):18.274361):9.600871,(1912:33.685451,1913:33.685451):60.131843):29.991993,((1914:45.606615,1915:45.606615):59.633425,1916:105.24004):18.569249):10.424597,((1917:108.916573,1918:108.916573):13.98257,(1919:105.883242,1920:105.883243):17.0159):11.334743):2.177214,(1921:20.434283,1922:20.434283):115.976816):0.573905,(1923:73.170201,1924:73.170201):63.814803):1.456563):2.401031):0.712384,1925:141.554982):2.971709,(1926:138.353841,(1927:121.337997,(1928:110.628468,1929:110.628468):10.709529):17.015844):6.17285):0.388512):1.367647,((((((((((((((((1930:71.717033,((((((1931:34.7948,1932:34.7948):12.314503,1933:47.109303):3.305165,1934:50.414468):10.958384,1935:61.372852):0.051031,1936:61.423883):4.576117,(1937:56.742204,1938:56.742204):9.257796):5.717032):0.530047,(1939:67.194641,1940:67.194641):5.052439):1.548205,1941:73.795284):5.328424,1942:79.123707):6.210096,(1943:60.430806,(1944:54.828411,1945:54.828411):5.602395):24.902998):9.349135,1946:94.682939):15.059439,(1947:26.896363,1948:26.896363):82.846015):1.993316,1949:111.735694):7.908717,(((1950:83.6,1951:83.6):20.411687,1952:104.011687):12.393251,1953:116.404937):3.239474):5.275658,(((((((1954:19.920907,1955:19.920907):0.256885,1956:20.177793):32.933285,(1957:30.698412,1958:30.698412):22.412666):26.529898,1959:79.640975):26.42584,((1960:19.292915,(1961:17.56255,1962:17.562551):1.730364):35.803552,1963:55.096467):50.970348):7.924756,1964:113.991572):8.93848,((1965:61.199612,1966:61.199612):15.593891,1967:76.793503):46.136548):1.990018):1.611205,(1968:91.078371,((1969:37.603019,1970:37.603019):14.167983,1971:51.771002):39.307369):35.452905):1.553538,((((((((1972:9.507637,1973:9.507637):9.416556,(1974:16.966311,1975:16.966311):1.957882):4.608669,((1976:14.575074,1977:14.575074):4.544687,1978:19.11976):4.413103):0.604005,1979:24.136868):0.939365,1980:25.076232):8.424508,((((1981:22.960188,(((((1982:12.487202,1983:12.487202):4.585627,1984:17.072828):2.306694,1985:19.379523):2.365,1986:21.744523):0.62861,((1987:20.387598,1988:20.387598):0.810044,1989:21.197642):1.175492):0.587054):0.733346,1990:23.693533):2.210631,1991:25.904164):1.229019,1992:27.133183):6.367557):15.843889,1993:49.34463):24.271493,1994:73.616123):54.46869):1.356464,((((((1995:53.074835,1996:53.074836):6.355678,1997:59.430513):5.058892,(((1998:54.875985,1999:54.875985):2.911185,2000:57.787169):2.217294,2001:60.004464):4.484942):13.668526,2002:78.157931):44.105411,(2003:42.194586,2004:42.194586):80.068757):6.237255,(2005:57.054536,((((2006:22.174617,(2007:14.476787,2008:14.476787):7.697829):15.158342,2009:37.332959):8.263477,(2010:13.297106,2011:13.297106):32.29933):4.456924,2012:50.05336):7.001176):71.446061):0.94068):1.95275,((((((2013:18.622021,2014:18.622021):17.253768,2015:35.875789):16.637748,2016:52.513536):16.866564,(((2017:20.561073,(2018:12.134492,2019:12.134492):8.426581):4.529277,2020:25.09035):3.716898,(2021:23.075517,2022:23.075517):5.731732):40.572851):6.728455,(2023:31.238417,2024:31.238418):44.870138):11.216915,2025:87.325471):44.068556):6.299921,((((2026:25.454936,2027:25.454936):24.670058,2028:50.124994):17.684737,(2029:38.564926,(((2030:16.269412,(2031:11.482575,2032:11.482575):4.786836):2.916004,2033:19.185416):4.476375,2034:23.66179):14.903135):29.244806):17.379576,2035:85.189307):52.50464):6.975391,((((2036:65.316497,(2037:58.317053,2038:58.317053):6.999444):13.537465,2039:78.853962):25.868062,(2040:74.745038,(2041:51.623881,((2042:33.543459,2043:33.543459):12.108543,2044:45.652001):5.97188):23.121156):29.976987):31.371315,(2045:126.923905,((2046:62.481934,(2047:45.045501,2048:45.045501):17.436432):50.874317,(2049:59.969984,2050:59.969984):53.386266):13.567655):9.169435):8.575999):1.613513):1.936652,(2051:56.852043,(2052:2.911099,2053:2.911099):53.940943):91.367461):0.389608):0.269575,(((2054:39.540625,2055:39.540625):8.259375,(2056:29.667483,2057:29.667483):18.132517):88.61371,2058:136.41371):12.464977):1.333186,(2059:140.450823,(2060:78.866033,2061:78.866033):61.584791):9.76105):0.392166,(((((((2062:15.436435,2063:15.436436):33.878983,(2064:47.789262,(2065:42.022197,2066:42.022196):5.767066):1.526155):8.830432,((2067:53.690854,(2068:47.030286,2069:47.030285):6.660568):2.588004,((2070:41.999102,2071:41.999102):9.490663,((2072:41.096443,2073:41.096443):6.342699,(2074:44.313322,2075:44.313322):3.12582):4.050624):4.789092):1.866992):13.95415,(((2076:22.647552,2077:22.647552):28.21899,(2078:23.473362,((2079:17.711417,(2080:14.629411,2081:14.629411):3.082006):1.34323,2082:19.054647):4.418715):27.39318):7.168769,2083:58.035312):14.064688):46.733353,2084:118.833353):12.744268,2085:131.577621):12.721645,2086:144.299265):6.304773):0.243337,(((((((2087:27.841127,(2088:20.259184,(2089:13.958208,2090:13.958208):6.300976):7.581942):1.516801,2091:29.357927):13.378083,2092:42.736011):47.091164,2093:89.827175):26.962786,((2094:70.8282,(2095:62.850316,2096:62.850316):7.977884):18.69839,(2097:53.171722,(2098:44.877221,2099:44.877221):8.294501):36.354869):27.26337):25.498742,((((2100:88.345782,(((((2101:68.645272,((2102:27.527618,(2103:6.634076,2104:6.634075):20.893543):8.787276,2105:36.314894):32.330376):6.008976,2106:74.654247):1.502513,2107:76.15676):3.02202,((2108:35.958702,2109:35.958702):38.370168,(2110:2.948226,2111:2.948226):71.380645):4.84991):3.800805,((2112:27.99654,(2113:8.927255,2114:8.927254):19.069285):3.044472,2115:31.041011):51.938574):5.366196):34.817883,(2116:98.266395,(((2117:19.456343,2118:19.456343):10.350914,2119:29.807256):62.000857,((2120:61.002854,2121:61.002854):12.826758,2122:73.829612):17.978501):6.458282):24.897269):13.390558,((((2123:42.190362,(2124:27.279417,(2125:15.868387,2126:15.868387):11.411031):14.910946):26.426021,2127:68.616384):25.760302,2128:94.376685):8.391554,(((((((2129:27.089031,2130:27.089031):8.866752,2131:35.955783):35.537956,(((2132:37.181759,2133:37.181758):3.903999,(2134:36.732082,2135:36.732082):4.353676):7.991443,2136:49.077201):22.416538):12.909017,((2137:60,2138:60):9.447797,2139:69.447797):14.95496):5.181216,2140:89.583972):3.27662,(((2141:49.280429,2142:49.28043):6.305438,2143:55.585868):21.965575,2144:77.551443):15.309149):5.790977,(2145:27.016931,2146:27.016931):71.634638):4.11667):33.785983):2.314524,(((2147:58.139804,(2148:37.907248,2149:37.907248):20.232556):8.767516,2150:66.90732):63.205623,2151:130.112942):8.755804):3.419956):1.687224,2152:143.975927):6.871449):1.242584):0.778316,((((2153:18.027844,2154:18.027844):43.044242,2155:61.072086):49.727914,2156:110.8):9.781215,2157:120.581215):32.28706):0.542877,((2158:88.656073,(2159:32.772032,2160:32.772032):55.884041):24.343927,2161:113):40.411152):0.588848,2162:154);
+END;
