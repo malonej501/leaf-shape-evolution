@@ -1,0 +1,43 @@
+Options:
+Model:                           MultiState
+Tree File Name:                  data/zun_genus_phylo_nat_26-09-24_class.tre
+Data File Name:                  data/zun_genus_phylo_nat_26-09-24_class.txt
+Log File Name:                   data/zun_genus_phylo_nat_26-09-24_class.txt.Log.txt
+Save Initial Trees:              False
+Save Trees:                      False
+Summary:                         False
+Seed:                            2313259685
+Analsis Type:                    Maximum Likelihood
+ML Attempt Per Tree:             10
+ML Max Evaluations:              20000
+ML Tolerance:                    0.000001
+ML Algorithm:                    BOBYQA
+Rate Range:                      0.000000 - 100.000000
+Precision:                       64 bits
+Cores:                           1
+No of Rates:                     12
+Base frequency (PI's):           None
+Pis used in ancestral state estimation:      Yes
+Character Symbols:               0,1,2,3
+Using a covarion model:          False
+Normalise Q Matrix:              False
+Restrictions:
+    q01                          None
+    q02                          None
+    q03                          None
+    q10                          None
+    q12                          None
+    q13                          None
+    q20                          None
+    q21                          None
+    q23                          None
+    q30                          None
+    q31                          None
+    q32                          None
+Tree Information
+     Trees:                      1
+     Taxa:                       2162
+     Sites:                      1
+     States:                     4
+Tree No	Lh	q01	q02	q03	q10	q12	q13	q20	q21	q23	q30	q31	q32	Root P(0)	Root P(1)	Root P(2)	Root P(3)	
+1	-798.219120	0.000365	0.000124	0.000323	0.010113	0.013813	0.007870	0.006405	0.024605	0.008417	0.026454	0.000000	0.000000	0.013686	0.608919	0.376746	0.000648	
