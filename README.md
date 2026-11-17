@@ -1,6 +1,6 @@
 # leaf-shape-evolution
 
-This repository contains code accompanying the paper Malone et al. (2025) "Developmental bias explains the evolutionary trend towards simple leaves".
+This repository contains code accompanying the paper eLife2026;15:RP110692 DOI: https://doi.org/10.7554/eLife.110692.
 
 ## Installation
 
@@ -14,7 +14,7 @@ For a complete installation you will require:
     - Extract into a directory called `/NPHLeafModels` and place inside `/vlab/oofs/ext`
 - BayesTraits 4.1.2
     - Available at https://www.evolution.reading.ac.uk/BayesTraitsV4.0.0/BayesTraitsV4.0.0.html
-    - Place inside `/BayesTraitsV4.1.2-Linux`
+    - Place inside `/BayesTraits`
 
 You may need to adjust paths in some of the scripts. The script `leaffinder.py` which runs the evolutionary simulations is designed to initiate multiple instances of the leaf model in parallel. To achieve this, copy the contents of `/NPHLeafModels` 10 times into directories called `/bin0`, `/bin1`, ..., `/bin9` inside the original `/NPHLeafModels` directory. The `/LeafGenerator` directory should remain inside `/NPHLeafModels`.
 
